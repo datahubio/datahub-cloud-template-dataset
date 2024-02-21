@@ -37,10 +37,6 @@ datapackage:
       missingValues:
       - ''
     title: VIX Daily
-  sources:
-  - name: CBOE VIX Page
-    path: http://www.cboe.com/micro/vix/historical.aspx
-    title: CBOE VIX Page
   views:
   - name: graph
     spec:
@@ -48,6 +44,8 @@ datapackage:
       series:
       - VIX Close
       type: line
+    specType: simple
+    title: VIX - CBOE Volatility Index
 ---
 
 [Here is the source file on GitHub](https://github.com/datopian/datarich-demo/blob/main/posts/story2.md) used to render this page.
