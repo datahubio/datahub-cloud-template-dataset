@@ -34,9 +34,6 @@ datapackage:
       - format: default
         name: VIX Close
         type: number
-      missingValues:
-      - ''
-    title: VIX Daily
 ---
 
 This is a template for publishing datasets on Datahub Cloud.
