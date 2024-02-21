@@ -1,8 +1,6 @@
 ---
 datapackage:
-  name: finance-vix
   title: VIX - CBOE Volatility Index
-  description: CBOE Volatility Index (VIX) time-series dataset including daily open, close, high and low. The CBOE Volatility Index (VIX) is a key measure of market expectations of near-term volatility conveyed by S&P 500 stock index option prices introduced in 1993.
   profile: data-package
   licenses:
   - id: odc-pddl
@@ -37,25 +35,6 @@ datapackage:
       missingValues:
       - ''
     title: VIX Daily
-  sources:
-  - name: CBOE VIX Page
-    path: http://www.cboe.com/micro/vix/historical.aspx
-    title: CBOE VIX Page
-  views:
-  - name: graph
-    spec:
-      group: Date
-      series:
-      - VIX Close
-      type: line
-    specType: simple
-    title: VIX - CBOE Volatility Index
 ---
 
-[Here is the source file on GitHub](https://github.com/datopian/datarich-demo/blob/main/posts/story2.md) used to render this page.
-
-## Some extra content
-
-Here is some extra content written in the body of this markdown file.
-
-<FrictionlessView viewId={0} />
+This is a template for publishing datasets on Datahub Cloud.
