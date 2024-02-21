@@ -41,21 +41,7 @@ datapackage:
   - name: CBOE VIX Page
     path: http://www.cboe.com/micro/vix/historical.aspx
     title: CBOE VIX Page
-  views:
-  - name: graph
-    spec:
-      group: Date
-      series:
-      - VIX Close
-      type: line
-    specType: simple
-    title: VIX - CBOE Volatility Index
 ---
 
 [Here is the source file on GitHub](https://github.com/datopian/datarich-demo/blob/main/posts/story2.md) used to render this page.
 
-## Some extra content
-
-Here is some extra content written in the body of this markdown file.
-
-<FrictionlessView viewId={0} />
