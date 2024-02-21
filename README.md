@@ -1,6 +1,7 @@
 ---
 datapackage:
   name: finance-vix
+  description: Adding a description
   title: VIX - CBOE Volatility Index
   profile: data-package
   licenses:
