@@ -1,30 +1,25 @@
 ---
 datapackage:
-  title: VIX - CBOE Volatility Index
-  description: CBOE Volatility Index (VIX) time-series dataset including daily open, close, high and low. The CBOE Volatility Index (VIX) is a key measure of market expectations of near-term volatility conveyed by S&P 500 stock index option prices introduced in 1993.
+  title: Dataset Template
+  description: A template for a dataset to publish on DataHub. Uses the Data Package metadata.
   licenses:
-  - id: odc-pddl
-    name: open_data_commons_public_domain_dedication_and_license_v1.0
-    path: http://opendatacommons.org/licenses/pddl/
+  - path: http://opendatacommons.org/licenses/pddl/
     title: Open Data Commons Public Domain Dedication and License v1.0
   resources:
-  - format: csv
-    mediatype: text/csv
-    name: vix-daily
-    path: data/vix-daily.csv
+  - path: data.csv
+    title: C02 PPM per decade
+    name: c02-per-decade
+    format: csv
     schema:
       fields:
-      - name: Date
+      - name: year
         type: date
-      - name: VIX Open
+      - name: co2
         type: number
-      - name: VIX High
-        type: number
-      - name: VIX Low
-        type: number
-      - name: VIX Close
-        type: number
-    title: VIX Daily
 ---
 
-[Here is the source file on GitHub](https://github.com/datopian/datarich-demo/blob/main/posts/story2.md) used to render this page.
+Here's some text.
+
+You can add as much text as you like.
+
+The data files will be automatically displayed here.
