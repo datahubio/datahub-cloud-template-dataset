@@ -37,15 +37,6 @@ datapackage:
       missingValues:
       - ''
     title: VIX Daily
-  views:
-  - name: graph
-    spec:
-      group: Date
-      series:
-      - VIX Close
-      type: line
-    specType: simple
-    title: VIX - CBOE Volatility Index
 ---
 
 [Here is the source file on GitHub](https://github.com/datopian/datarich-demo/blob/main/posts/story2.md) used to render this page.
