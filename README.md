@@ -228,7 +228,7 @@ In case you're dealing with geo data, you can visualize your data on a GeoJSON p
 
 ### Data Table
 
-Let's start by adding a table of your data like the one below:
+Let's continue by adding a table of your data like the one below:
 
 <FlatUiTable url="https://storage.openspending.org/alberta-budget/__os_imported__alberta_total.csv" />
 
