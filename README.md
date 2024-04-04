@@ -18,7 +18,7 @@ datapackage:
         type: number
 ---
 
-Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter.
+Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter. See [docs page](https://datahub.io/@Daniellappv/datahub-cloud-template/docs)
 
 # Overview
 
@@ -59,4 +59,4 @@ const ExampleCode = () => {
 };
 ```
 
-To see more of what is possible, go read the [docs page](/docs.md)
+
