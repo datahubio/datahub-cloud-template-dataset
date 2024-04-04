@@ -59,4 +59,4 @@ const ExampleCode = () => {
 };
 ```
 
-To see more of what is possible, go read the [docs](https://datahub.io/@Daniellappv/datahub-cloud-docs) 
+To see more of what is possible, go read the [docs page](./docs.md)
