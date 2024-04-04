@@ -181,6 +181,8 @@ There are also other types of charts and graphs you can use to enhance your data
 
 ### Plotly charts
 
+> [!info] Bar Chart
+
 <PlotlyBarChart
   data={[
     {
@@ -208,7 +210,7 @@ There are also other types of charts and graphs you can use to enhance your data
   yAxis="temperature"
 />
 
-> [!LineChart]
+> [!info] Line Chart
 
 <PlotlyLineChart
   data={[
