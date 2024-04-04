@@ -1,7 +1,7 @@
 ---
 datapackage:
   title: Welcome to your template dataset page!
-  description: This is a template for publishing your dataset with Datahub Cloud. To read more about how this works, refer to the [docs page](https://datahub.io/@Daniellappv/datahub-cloud-template/docs).
+  description: This is a template for publishing your dataset with Datahub Cloud. 
   licenses:
   - path: http://opendatacommons.org/licenses/pddl/
     title: Open Data Commons Public Domain Dedication and License v1.0
@@ -59,4 +59,5 @@ const ExampleCode = () => {
 };
 ```
 
+## To read more about how this works, refer to the [docs page](https://datahub.io/@Daniellappv/datahub-cloud-template/docs).
 
