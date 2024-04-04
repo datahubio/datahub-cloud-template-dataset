@@ -59,4 +59,4 @@ const ExampleCode = () => {
 };
 ```
 
-To see more of what is possible, go read the [docs page](./docs.md)
+To see more of what is possible, go read the [docs page](/docs.md)
