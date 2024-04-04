@@ -1,6 +1,36 @@
-## Docs
+# Docs 
 
-You can use a number of data preview and data visualization components in order to make your dataset more insightful. 
+Welcome to Datahub Cloud! 
+
+The current version of Datahub Cloud runs only off Github 
+
+There are two ways you can start publishing quickly with Datahub Cloud:
+
+1. Starting off from our [template](https://github.com/datahubio/datahub-cloud-template) and customizing it to fit your needs
+2. Or if you want to live dangerously, you can start from scratch
+
+
+## Starting off from our template
+
+1. Go to https://github.com/datahubio/datahub-cloud-template
+2. Click "Use this template" at the top right and create the repository (can be public or private - works with both)
+3. Go to the app and create a new site by selecting the repository you just created
+4. That's it! It is now published. Hit "Visit" to see how it looks like.
+5. To customize it further and adjust it to your needs, go to  
+
+## Starting from scratch 
+
+Currently we support the following:
+- any markdown + `datapackage` frontmatter field ([Frictionless data package spec](https://specs.frictionlessdata.io/data-package/#language))
+- any `index.md/README.md` + same level `datapackage.{json/yaml/yml}`
+
+Having data files that are not specifically listed in the datapackage are ignored.
+
+TBC
+
+## Current supported features
+
+You can use a number of data preview and data visualization components in order to make your dataset more insightful. Continue reading to explore other currently supported features.
 
 ### Catalog 
 
