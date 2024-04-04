@@ -59,4 +59,4 @@ const ExampleCode = () => {
 };
 ```
 
-Or simply pass an inline code like this: `print("hello world!")`
+To see more of what is possible, go read the [docs](https://datahub.io/@Daniellappv/datahub-cloud-docs) 
