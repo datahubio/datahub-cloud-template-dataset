@@ -237,10 +237,10 @@ Let's continue by adding a table of your data like the one below:
 ### Line and Bar Charts
 
 <LineChart
-  data="https://raw.githubusercontent.com/datasets/oil-prices/main/data/wti-year.csv"
-  title="Oil Price x Year"
-  xAxis="Date"
-  yAxis="Price"
+  data="data.csv"
+  title="Annual CO2 Emissions"
+  xAxis="Year"
+  yAxis="Co2"
 />
 
 There are also other types of charts and graphs you can use to enhance your dataset. You can create charts with Plotly, see how it renders: 
