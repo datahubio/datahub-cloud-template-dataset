@@ -339,5 +339,4 @@ There are also other types of charts and graphs you can use to enhance your data
   }}
 />
 
-
 For a full list and API of available data visualisation components visit [https://storybook.portaljs.org](https://storybook.portaljs.org)
