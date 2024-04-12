@@ -32,7 +32,7 @@ You can create a new repository in Github. Currently, any Github repository with
 
 > Note: Having data files that are **not** specifically listed in the data package are ignored.
 
-#### Customizing your site
+### Customizing your site
 
 Now that you have created your first site, you can add more features to make it data-richer.
 
