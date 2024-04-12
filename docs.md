@@ -9,7 +9,7 @@ Welcome to Datahub Cloud!
 
 There are two ways you can start publishing quickly with Datahub Cloud:
 
-1. Starting off from our [template](https://github.com/datahubio/datahub-cloud-template) and customizing it to fit your needs
+1. Starting off from our [template](https://github.com/datahubio/datahub-cloud-template) 
 2. Or if you want to live dangerously, you can start from scratch
 
 > [!info] We recommend starting with the template first to better understand how it works and what's possible.
@@ -19,21 +19,11 @@ There are two ways you can start publishing quickly with Datahub Cloud:
 1. Go to https://github.com/datahubio/datahub-cloud-template
 2. Click "Use this template" at the top right and create the repository (can be public or private - works with both)
 3. Go to the app and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
-5. That's it! It is now published. Hit "Visit" at the top right to see what it looks like.
-
-#### Customizing the template
-
-Now that you have the template deployed in your repository, you can add more features to it, or tidy it up in case you don't need everything.
-
-TODO
-
-If you want to eg. 
-
-
+5. That's it! It is now published. Hit the green "Visit" button at the top right to see what it looks like.
 
 ### Starting from scratch 
 
-> [!info] This currently requires some basic technical background.
+> [!info] This step currently requires some basic data know-how.
 
 You can create a new repository in Github. Currently, any Github repository with the following is supported:
 - Any markdown file + a `datapackage` frontmatter field ([Frictionless data package spec](https://specs.frictionlessdata.io/data-package/#language))
@@ -41,21 +31,39 @@ You can create a new repository in Github. Currently, any Github repository with
 
 > Note: Having data files that are **not** specifically listed in the data package are ignored.
 
-#### Adding new components to your brand new repository
+#### Customizing your site
 
-Refer to the full list and API of available data visualization components here [https://storybook.portaljs.org](https://storybook.portaljs.org)
+Now that you have created your first site, you can add more features to make it data-richer.
 
-1. Click on the desired component you want to add from the sidebar list.
-2. Look at the right side of your screen to see what this component would look like
-3. Navigate to the bottom right of the component and click on "Show code"
+> [!info] Github is playing the role of your Editor. Any changes you want to make to your published site, you need to make in your GitHub repository first.
+> Once you hit "sync" on your Site dashboard, the changes get reflected on your published site.
+
+To start with, please check the full list and API of the available features here [https://storybook.portaljs.org](https://storybook.portaljs.org)
+
+Then follow the steps below:
+
+1. Upload all relevant data files and/or images to your Github repository.
+2. Select the desired feature you want to add from the sidebar list.
+3. Once you click on the selected feature, you will find 1) docs related to the feature as well as 2) the different ways in which you can import this feature
+4. In any way, navigate to the docs
+5. Hit "Show code" at the bottom right of the showcased feature
 
 <img width="1388" alt="Screenshot 2024-04-11 at 14 52 59" src="https://github.com/datahubio/datahub-cloud-template/assets/45828069/67de61a9-3479-4881-8457-cb5742f7842e"/>
 
-4. Copy-paste the code into your markdown file in your Github repository (if you haven't added one while creating the repo, do it now)
-5. TODO
+6. Copy-paste the code into your markdown file in your GitHub repository (if you haven't added one while creating the repo, do it now)*
+7. Commit the changes made
+8. Navigate back to the App and hit "Sync"
+9. Visit your site or refresh the page in order to see the reflected changes
 
+> [!info] To import a feature from URL, simply upload your data file to your Github repository and replace the URL in the copied code. Relative paths are supported.
+> If you need more detailed instructions on how to customize the copied code in order to make it fit with your data, please continue reading.
 
 ## Supported features 
+
+Depending on the type of feature you selected and the code copied across, you may need to:
+1) update the params _(refer to the params in the docs and their description)_
+2) update the CSV link with the link of your data file. You can also use a relative path. 
+3) or update the URL to one of your own file
 
 ### Summary
 - Catalog
@@ -182,7 +190,9 @@ If your dataset is part of a larger dataset collection, you may want to start by
   ]}
 />
 
-This makes it easy to navigate and quickly find or filter down the data you're looking for. You can add as many facets as you'd like.
+This makes it easy to navigate and quickly find or filter down the data you're looking for. You can add as many facets as you'd like. 
+
+> Simply copy-paste the code and update the values. 
 
 ### Excel 
 
@@ -192,9 +202,10 @@ If you're working a lot with Excel files, you can embed a preview of your file s
 
 <Excel url="https://storage.portaljs.org/IC-Gantt-Chart-Project-Template-8857.xlsx" />
 
-Simply upload your Excel file to your Github repository and replace the URL with the relative path of the uploaded file.
+This component allows you to present all tabs in your Excel file. You can sort the rows by clicking on the Column name and you can also filter each column by clicking on the triple bar symbol next to the Column name.
 
-> Note: This component allows you to present all tabs in your Excel file. You can sort the rows by clicking on the Column name and you can also filter each column by clicking on the triple bar symbol next to the Column name.
+> Simply upload your Excel file to your Github repository and replace the URL with the URL of the uploaded file (absolute and relative paths are supported). 
+
 
 ### Map
 
@@ -228,13 +239,19 @@ In case you're dealing with geo data, you can visualize your data on a GeoJSON p
   zoom={2}
 />
 
+> Make sure to upload your geoJSON file to the Github repository and update the params in the code. 
+
 ### Data Table
 
 Let's continue by adding a table of your data like the one below:
 
 <FlatUiTable url="https://storage.openspending.org/alberta-budget/__os_imported__alberta_total.csv" />
 
+> To get this data replaced with your data, upload your csv file to your repository and update the URL 
+
 ### Line and Bar Charts
+
+Here's a quick line chart:
 
 <LineChart
   data="data.csv"
@@ -243,7 +260,22 @@ Let's continue by adding a table of your data like the one below:
   yAxis="Co2"
 />
 
-There are also other types of charts and graphs you can use to enhance your dataset. You can create charts with Plotly, see how it renders: 
+You can add this line chart component by simply: 
+
+1) Uploading your data CSV file to your repository
+2) Copy-pasting the below snippet into the markdown file in your repository
+3) Update the params (data, title, xAxis, yAxis) to fit your data
+
+```
+<LineChart
+  data="data.csv"
+  title="Annual CO2 Emissions"
+  xAxis="Year"
+  yAxis="Co2"
+/>
+```
+
+> There are also other types of charts and graphs you can use to enhance your dataset. You can create charts with Plotly or VegaLite.
 
 #### Plotly charts
 
@@ -307,6 +339,8 @@ There are also other types of charts and graphs you can use to enhance your data
 
 ### VegaLite Charts
 
+> [!info] VegaLite Charts are also supported
+
 <VegaLite
   data={{
     table: [
@@ -339,6 +373,6 @@ There are also other types of charts and graphs you can use to enhance your data
   }}
 />
 
-For a full list and API of available data visualisation components visit [https://storybook.portaljs.org](https://storybook.portaljs.org)
+For a full list and API of available data visualization components visit [https://storybook.portaljs.org](https://storybook.portaljs.org)
 
 
