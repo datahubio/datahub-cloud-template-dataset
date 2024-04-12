@@ -23,7 +23,7 @@ There are two ways you can start publishing quickly with Datahub Cloud:
 
 ### Starting from scratch 
 
-`==This step currently requires some basic data know-how.==`
+> This step currently requires some basic data know-how.
 
 You can create a new repository in Github. Currently, any Github repository with the following files is supported:
 - Any markdown file (.md) + a `datapackage` frontmatter field ([Frictionless data package spec](https://specs.frictionlessdata.io/data-package/#language))
