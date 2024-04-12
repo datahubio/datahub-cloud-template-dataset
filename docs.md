@@ -23,10 +23,10 @@ There are two ways you can start publishing quickly with Datahub Cloud:
 
 ### Starting from scratch 
 
-> [!info] This step currently requires some basic data know-how.
+==This step currently requires some basic data know-how.==
 
-You can create a new repository in Github. Currently, any Github repository with the following is supported:
-- Any markdown file + a `datapackage` frontmatter field ([Frictionless data package spec](https://specs.frictionlessdata.io/data-package/#language))
+You can create a new repository in Github. Currently, any Github repository with the following files is supported:
+- Any markdown file (.md) + a `datapackage` frontmatter field ([Frictionless data package spec](https://specs.frictionlessdata.io/data-package/#language))
 - Any `index.md/README.md` + same level `datapackage.{json/yaml/yml}` file
 
 > Note: Having data files that are **not** specifically listed in the data package are ignored.
@@ -35,12 +35,13 @@ You can create a new repository in Github. Currently, any Github repository with
 
 Now that you have created your first site, you can add more features to make it data-richer.
 
-> [!info] Github is playing the role of your Editor. Any changes you want to make to your published site, you need to make in your GitHub repository first.
+> [!info] Github is playing the role of your Editor.
+> Any changes you want to make to your published site, you need to make in your GitHub repository first.
 > Once you hit "sync" on your Site dashboard, the changes get reflected on your published site.
 
 To start with, please check the full list and API of the available features here [https://storybook.portaljs.org](https://storybook.portaljs.org)
 
-Then follow the steps below:
+==Then follow the steps below:==
 
 1. Upload all relevant data files and/or images to your Github repository.
 2. Select the desired feature you want to add from the sidebar list.
