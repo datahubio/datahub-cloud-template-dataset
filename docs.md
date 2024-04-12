@@ -2,8 +2,9 @@
 
 Welcome to Datahub Cloud! 
 
-> [!info] You can publish your dataset or your data story quickly and easily with Datahub Cloud. 
-> The current version of Datahub Cloud runs only off Github. 
+You can publish your dataset or your data story quickly and easily with Datahub Cloud. 
+
+The current version of Datahub Cloud runs only off Github. 
 
 ## Quick Start
 
@@ -41,7 +42,7 @@ Now that you have created your first site, you can add more features to make it 
 
 To start with, please check the full list and API of the available features here [https://storybook.portaljs.org](https://storybook.portaljs.org)
 
-==Then follow the steps below:==
+**Then follow the steps below:**
 
 1. Upload all relevant data files and/or images to your Github repository.
 2. Select the desired feature you want to add from the sidebar list.
