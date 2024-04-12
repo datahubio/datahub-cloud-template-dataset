@@ -49,7 +49,7 @@ Refer to the full list and API of available data visualization components here [
 2. Look at the right side of your screen to see what this component would look like
 3. Navigate to the bottom right of the component and click on "Show code"
 
-<img width="1388" alt="Screenshot 2024-04-11 at 14 52 59" src="https://github.com/datahubio/datahub-cloud-template/assets/45828069/67de61a9-3479-4881-8457-cb5742f7842e">
+<img width="1388" alt="Screenshot 2024-04-11 at 14 52 59" src="https://github.com/datahubio/datahub-cloud-template/assets/45828069/67de61a9-3479-4881-8457-cb5742f7842e"/>
 
 4. Copy-paste the code into your markdown file in your Github repository (if you haven't added one while creating the repo, do it now)
 5. TODO
