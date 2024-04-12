@@ -305,38 +305,4 @@ There are also other types of charts and graphs you can use to enhance your data
   yAxis="temperature"
 />
 
-### VegaLite Charts
-
-<VegaLite
-  data={{
-    table: [
-      {
-        x: 1850,
-        y: -0.418
-      },
-      {
-        x: 2020,
-        y: 0.923
-      }
-    ]
-  }}
-  spec={{
-    $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
-    data: {
-      name: 'table'
-    },
-    encoding: {
-      x: {
-        field: 'x',
-        type: 'ordinal'
-      },
-      y: {
-        field: 'y',
-        type: 'quantitative'
-      }
-    },
-    mark: 'bar'
-  }}
-/>
-
 For a full list and API of available data visualisation components visit [https://storybook.portaljs.org](https://storybook.portaljs.org)
