@@ -6,10 +6,9 @@ Datahub Cloud is your stupidly simple and fast tool for turning datasets and dat
 
 > Note: The current version of Datahub Cloud runs only off Github.
 
+--------
 
-
-
-## Quick Start
+# Quick Start
 
 There are two ways you can start publishing quickly with Datahub Cloud:
 
@@ -18,14 +17,14 @@ There are two ways you can start publishing quickly with Datahub Cloud:
 
 > [!info] We recommend starting with the template first to better understand how it works and what's possible.
 
-### Starting off from our template
+## Starting off from our template
 
 1. Go to https://github.com/datahubio/datahub-cloud-template
 2. Click "Use this template" at the top right and create the repository (can be public or private - works with both)
 3. Go to the app and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
 5. That's it! It is now published. Hit the green "Visit" button at the top right to see what it looks like.
 
-### Starting from scratch 
+## Starting from scratch 
 
 > This step currently requires some basic data know-how.
 
@@ -35,7 +34,9 @@ You can create a new repository in Github. Currently, any Github repository with
 
 > Note: Having data files that are **not** specifically listed in the data package are ignored.
 
-### I have my site up and running. How do I customize it?
+-------
+
+## I have my site up and running. How do I customize it?
 
 Now that you have created your first site, you can add more features to make it data-richer.
 
@@ -63,14 +64,16 @@ To start with, please check the full list and API of the available features here
 > [!info] To import a feature from URL, simply upload your data file to your Github repository and replace the URL in the copied code. Relative paths are supported.
 > If you need more detailed instructions on how to customize the copied code in order to make it fit with your data, please continue reading.
 
-## What features are supported
+-------
+
+# What features are supported?
 
 Depending on the type of feature you selected from the list https://storybook.portaljs.org and the code copied across, you may need to:
 1) update the params _(refer to the params in the docs and their description)_
 2) update the CSV link with the link of your data file. You can also use a relative path. 
 3) or update the URL to one of your own file
 
-### Summary
+## Summary
 - Catalog
 - Excel
 - Map
@@ -81,7 +84,7 @@ Depending on the type of feature you selected from the list https://storybook.po
 
 You can use a number of data preview and data visualization components in order to make your dataset more insightful. Continue reading to explore other currently supported features.
 
-### Catalog 
+## Catalog 
 
 If your dataset is part of a larger dataset collection, you may want to start by listing the related datasets here in a catalog-like component with search and facets like this one: 
 
@@ -199,7 +202,7 @@ This makes it easy to navigate and quickly find or filter down the data you're l
 
 > Simply copy-paste the code and update the values. 
 
-### Excel 
+## Excel 
 
 `==Excel==`
 
@@ -212,7 +215,7 @@ This component allows you to present all tabs in your Excel file. You can sort t
 > Simply upload your Excel file to your Github repository and replace the URL with the URL of the uploaded file (absolute and relative paths are supported). 
 
 
-### Map
+## Map
 
 In case you're dealing with geo data, you can visualize your data on a GeoJSON polygons and points map with auto zoom in the points layer:
 
@@ -246,7 +249,7 @@ In case you're dealing with geo data, you can visualize your data on a GeoJSON p
 
 > Make sure to upload your geoJSON file to the Github repository and update the params in the code. 
 
-### Data Table
+## Data Table
 
 Let's continue by adding a table of your data like the one below:
 
@@ -254,7 +257,7 @@ Let's continue by adding a table of your data like the one below:
 
 > To get this data replaced with your data, upload your csv file to your repository and update the URL 
 
-### Line and Bar Charts
+## Line and Bar Charts
 
 Here's a quick line chart:
 
@@ -282,7 +285,7 @@ You can add this line chart component by simply:
 
 > There are also other types of charts and graphs you can use to enhance your dataset. You can create charts with Plotly or VegaLite.
 
-#### Plotly charts
+### Plotly charts
 
 > [!info] Bar Chart
 
