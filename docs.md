@@ -1,10 +1,10 @@
 # Docs 
 
-Welcome to Datahub Cloud! 
+Welcome to Datahub Cloud documentation! 
 
-You can publish your dataset or your data story quickly and easily with Datahub Cloud. 
+Datahub Cloud is your stupidly simple and fast tool for turning datasets and data-driven content on GitHub into a published, shareable site.
 
-The current version of Datahub Cloud runs only off Github. 
+> Note: The current version of Datahub Cloud runs only off Github. 
 
 ## Quick Start
 
@@ -32,7 +32,7 @@ You can create a new repository in Github. Currently, any Github repository with
 
 > Note: Having data files that are **not** specifically listed in the data package are ignored.
 
-### Customizing your site
+### I have my site up and running. How do I customize it?
 
 Now that you have created your first site, you can add more features to make it data-richer.
 
@@ -60,9 +60,9 @@ To start with, please check the full list and API of the available features here
 > [!info] To import a feature from URL, simply upload your data file to your Github repository and replace the URL in the copied code. Relative paths are supported.
 > If you need more detailed instructions on how to customize the copied code in order to make it fit with your data, please continue reading.
 
-## Supported features 
+## What features are supported
 
-Depending on the type of feature you selected and the code copied across, you may need to:
+Depending on the type of feature you selected from the list https://storybook.portaljs.org and the code copied across, you may need to:
 1) update the params _(refer to the params in the docs and their description)_
 2) update the CSV link with the link of your data file. You can also use a relative path. 
 3) or update the URL to one of your own file
