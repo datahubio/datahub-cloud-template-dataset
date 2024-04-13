@@ -70,6 +70,7 @@ Datahub Cloud supports CommonMark and GitHub Flavored Markdown, but also many Ob
 
 For more syntax elements supported by Datahub Cloud, see https://flowershow.app/docs/syntax#commonmark
 
+-------
 
 # What features are supported?
 
