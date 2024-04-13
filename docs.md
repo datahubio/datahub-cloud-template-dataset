@@ -4,7 +4,10 @@ Welcome to Datahub Cloud documentation!
 
 Datahub Cloud is your stupidly simple and fast tool for turning datasets and data-driven content on GitHub into a published, shareable site.
 
-> Note: The current version of Datahub Cloud runs only off Github. 
+> Note: The current version of Datahub Cloud runs only off Github.
+
+
+
 
 ## Quick Start
 
