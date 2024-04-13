@@ -26,8 +26,6 @@ There are two ways you can start publishing quickly with Datahub Cloud:
 
 ## Starting from scratch 
 
-> This step currently requires some basic data know-how.
-
 You can create a new repository in Github. Currently, any Github repository with the following files is supported:
 - Any markdown file (.md) + a `datapackage` frontmatter field ([Frictionless data package spec](https://specs.frictionlessdata.io/data-package/#language))
 - Any `index.md/README.md` + same level `datapackage.{json/yaml/yml}` file
@@ -65,6 +63,13 @@ To start with, please check the full list and API of the available features here
 > If you need more detailed instructions on how to customize the copied code in order to make it fit with your data, please continue reading.
 
 -------
+
+# What syntax is supported?
+
+Datahub Cloud supports CommonMark and GitHub Flavored Markdown, but also many Obsidian-specific syntax elements, like Wiki links or footnotes[^1].
+
+For more syntax elements supported by Datahub Cloud, see https://flowershow.app/docs/syntax#commonmark
+
 
 # What features are supported?
 
@@ -382,5 +387,3 @@ You can add this line chart component by simply:
 />
 
 For a full list and API of available data visualization components visit [https://storybook.portaljs.org](https://storybook.portaljs.org)
-
-
