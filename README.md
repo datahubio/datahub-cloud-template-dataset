@@ -59,5 +59,5 @@ const ExampleCode = () => {
 };
 ```
 
-## To read more about how this works, refer to the [docs page](https://datahub.io/@Daniellappv/datahub-cloud-template/docs).
+## To read more about how this works, refer to the [docs page](docs).
 
