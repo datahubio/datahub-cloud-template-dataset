@@ -277,7 +277,7 @@ Here's a quick line chart:
 
 <LineChart
   data={{
-    url: "../data.csv"
+    url: "data.csv"
   }}
   title="Annual CO2 Emissions"
   xAxis="year"
@@ -293,7 +293,7 @@ You can add this line chart component by simply:
 ```
 <LineChart
   data={{
-    url: "../data.csv"
+    url: "data.csv"
   }}
   title="Annual CO2 Emissions"
   xAxis="year"
