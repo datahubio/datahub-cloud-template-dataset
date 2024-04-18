@@ -280,8 +280,8 @@ Here's a quick line chart:
     url: "../data.csv"
   }}
   title="Annual CO2 Emissions"
-  xAxis="Year"
-  yAxis="Co2"
+  xAxis="year"
+  yAxis="co2"
 />
 
 You can add this line chart component by simply: 
@@ -296,8 +296,8 @@ You can add this line chart component by simply:
     url: "../data.csv"
   }}
   title="Annual CO2 Emissions"
-  xAxis="Year"
-  yAxis="Co2"
+  xAxis="year"
+  yAxis="co2"
 />
 ```
 
