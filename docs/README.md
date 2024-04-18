@@ -214,7 +214,9 @@ This makes it easy to navigate and quickly find or filter down the data you're l
 
 If you're working a lot with Excel files, you can embed a preview of your file such as this one:
 
-<Excel url="https://storage.portaljs.org/IC-Gantt-Chart-Project-Template-8857.xlsx" />
+<Excel data={
+  url: "https://storage.portaljs.org/IC-Gantt-Chart-Project-Template-8857.xlsx"
+} />
 
 This component allows you to present all tabs in your Excel file. You can sort the rows by clicking on the Column name and you can also filter each column by clicking on the triple bar symbol next to the Column name.
 
@@ -235,7 +237,9 @@ In case you're dealing with geo data, you can visualize your data on a GeoJSON p
   }}
   layers={[
     {
-      data: 'https://opendata.arcgis.com/datasets/9c58741995174fbcb017cf46c8a42f4b_25.geojson',
+      data: {
+        url: 'https://opendata.arcgis.com/datasets/9c58741995174fbcb017cf46c8a42f4b_25.geojson'
+      },
       name: 'Points',
       tooltip: true
     },
@@ -244,7 +248,9 @@ In case you're dealing with geo data, you can visualize your data on a GeoJSON p
         ending: '#00ff00',
         starting: '#ff0000'
       },
-      data: 'https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_10m_geography_marine_polys.geojson',
+      data: {
+        url: 'https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_10m_geography_marine_polys.geojson'
+      },
       name: 'Polygons',
       tooltip: true
     }
@@ -259,7 +265,9 @@ In case you're dealing with geo data, you can visualize your data on a GeoJSON p
 
 Let's continue by adding a table of your data like the one below:
 
-<FlatUiTable url="https://storage.openspending.org/alberta-budget/__os_imported__alberta_total.csv" />
+<FlatUiTable data={
+  url: "https://storage.openspending.org/alberta-budget/__os_imported__alberta_total.csv"
+} />
 
 > To get this data replaced with your data, upload your csv file to your repository and update the URL 
 
@@ -268,7 +276,9 @@ Let's continue by adding a table of your data like the one below:
 Here's a quick line chart:
 
 <LineChart
-  data="data.csv"
+  data={
+    url: "data.csv"
+  }
   title="Annual CO2 Emissions"
   xAxis="Year"
   yAxis="Co2"
@@ -282,7 +292,9 @@ You can add this line chart component by simply:
 
 ```
 <LineChart
-  data="data.csv"
+  data={
+    url: "data.csv"
+  }
   title="Annual CO2 Emissions"
   xAxis="Year"
   yAxis="Co2"
