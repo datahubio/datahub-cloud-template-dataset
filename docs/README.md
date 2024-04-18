@@ -402,28 +402,5 @@ You can add this line chart component by simply:
   }}
 />
 
-<FlatUiTable
-  data={{
-    url: "data.csv"
-  }}
- />
-
-
- <Iframe
-  data={{
-    url: 'https://app.powerbi.com/view?r=eyJrIjoiYzBmN2Q2MzYtYzE3MS00ODkxLWE5OWMtZTQ2MjBlMDljMDk4IiwidCI6Ijk1M2IwZjgzLTFjZTYtNDVjMy04MmM5LTFkODQ3ZTM3MjMzOSIsImMiOjh9'
-  }}
-  style={{
-    height: '75vh',
-    width: '100%'
-  }}
-/>
-
-<PdfViewer
-  data={{
-    url: 'https://cdn.filestackcontent.com/wcrjf9qPTCKXV3hMXDwK'
-  }}
-  parentClassName="h-96"
-/>
 
 For a full list and API of available data visualization components visit [https://storybook.portaljs.org](https://storybook.portaljs.org)
