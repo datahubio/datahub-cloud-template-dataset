@@ -98,7 +98,7 @@ If your dataset is part of a larger dataset collection, you may want to start by
   datasets={[
     {
       _id: '07026b22d49916754df1dc8ffb9ccd1c31878aae',
-      file_path: 'content/dataset-4/index.md',
+      file_path: 'https://github.com/datasets/awesome-data/blob/master/climate-change.md',
       metadata: {
         'details-of-task': 'Detect and categorise abusive language in social media data',
         collection: 'Climate data',
@@ -124,7 +124,7 @@ If your dataset is part of a larger dataset collection, you may want to start by
     },
     {
       _id: '42c86cf3c4fbbab11d91c2a7d6dcb8f750bc4e19',
-      file_path: 'content/dataset-1/index.md',
+      file_path: 'https://github.com/datasets/awesome-data/blob/master/economic-data.md',
       metadata: {
         'details-of-task': 'Enriched versions of the OffensEval/OLID dataset with the distinction of explicit/implicit offensive messages and the new dimension for abusive messages. Labels for offensive language: EXPLICIT, IMPLICT, NOT; Labels for abusive language: EXPLICIT, IMPLICT, NOTABU',
         collection: 'Economy',
@@ -149,7 +149,7 @@ If your dataset is part of a larger dataset collection, you may want to start by
     },
     {
       _id: '80001dd32a752421fdcc64e91fbd237dc31d6bb3',
-      file_path: 'content/dataset-2/index.md',
+      file_path: 'https://github.com/datasets/awesome-data/blob/master/stock-market-data.md',
       metadata: {
         'details-of-task': 'Incivility',
         collection: 'Stock Market',
@@ -174,7 +174,7 @@ If your dataset is part of a larger dataset collection, you may want to start by
     },
     {
       _id: '96649d05d8193f4333b10015af76c6562971bd8c',
-      file_path: 'content/dataset-3/index.md',
+      file_path: 'https://github.com/datasets/awesome-data/blob/master/air-pollution.md',
       metadata: {
         'details-of-task': 'Detectioning CDC from abusive comments',
         collection: 'Climate data',
