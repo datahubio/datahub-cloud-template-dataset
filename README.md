@@ -7,11 +7,13 @@ datapackage:
   licenses:
   - path: http://opendatacommons.org/licenses/pddl/
     title: Open Data Commons Public Domain Dedication and License v1.0
+  sources:
+  - path: http://link.to/data/source
+    title: Link to data source
   resources:
-  - path: data.csv
+  - name: c02-per-decade
     title: C02 PPM per decade
-    name: c02-per-decade
-    format: csv
+    path: data.csv
     schema:
       fields:
       - name: year
