@@ -16,12 +16,6 @@ datapackage:
     description: C02 PPM per decade
     lastModified: 2024-01-15
     path: data.csv
-    schema:
-      fields:
-      - name: year
-        type: date
-      - name: co2
-        type: number
 ---
 
 Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter. 
