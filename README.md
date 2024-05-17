@@ -14,7 +14,6 @@ datapackage:
   - name: c02-per-decade
     title: C02 PPM per decade
     description: C02 PPM per decade
-    lastModified: 2024-01-15
     path: data.csv
     schema:
       fields:
