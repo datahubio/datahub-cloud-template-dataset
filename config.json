@@ -12,7 +12,7 @@
     "logo": "https://datahub.io/datahub-cube.svg"
   },
   "navLinks": [
-    { "href": "/docs", "name": "Docs" },
+    { "href": "/docs", "name": "Docs" }
   ],
   "showSidebar": false
 }
