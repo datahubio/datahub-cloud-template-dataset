@@ -47,7 +47,7 @@ Any DataHub Cloud site is built off of a GitHub repository. This is where you'd 
 
 Go to your GitHub account and create a new repository. Note, you can check "Add a README file" checkbox. This will make GitHub automatically add an empty `README.md` file to our repository.
 
-![[Pasted image 20240514091335.png]]
+![[../assets/Pasted image 20240514091335.png]]
 
 > [!hint]
 > If you're new to GitHub, here are simple instructions on creating a repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
