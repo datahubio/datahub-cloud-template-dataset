@@ -6,6 +6,9 @@ Datahub Cloud is your stupidly simple and fast tool for turning datasets and dat
 
 > Note: The current version of Datahub Cloud runs only off Github.
 
+# Table of contents
+
+
 # Quick Start
 
 There are two ways you can start publishing quickly with Datahub Cloud:
