@@ -26,7 +26,7 @@ There are two ways you can start publishing quickly with Datahub Cloud:
 2. Click "Use this template" at the top right and create the repository (can be public or private - works with both)
 3. Go to the app and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
 5. That's it! It is now published. Hit the green "Visit" button at the top right to see what it looks like.
-6. Scroll down to [#Adding visuals and data-rich components](https://datahub.io/docs#adding-visuals-and-data-rich-components)
+6. Scroll down to #Adding visuals and data-rich components
 
 -------
 
