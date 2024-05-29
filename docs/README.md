@@ -830,6 +830,18 @@ In summary, depending on the type of feature you selected from the list https://
 
 -------
 
+## Datahub Cloud Sidebar Navigation (Alpha version)
+
+You can enable the sidebar by adding config.json file in the root of your site's repository (or it's subfolder if you're publishing only this subfolder with DH Cloud) with the following content:
+
+```
+{
+  "showSidebar": true
+}
+```
+
+![[Screenshot3.png]]
+
 # What syntax is supported?
 
 Datahub Cloud supports CommonMark and GitHub Flavored Markdown, but also many Obsidian-specific syntax elements, like Wiki links or footnotes[^1].
