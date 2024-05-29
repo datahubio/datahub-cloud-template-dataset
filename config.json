@@ -14,5 +14,5 @@
   "navLinks": [
     { "href": "/docs", "name": "Docs" }
   ],
-  "showSidebar": false
+  "showSidebar": true
 }
