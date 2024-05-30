@@ -25,7 +25,7 @@ Go to your GitHub account and create a new repository. Note, you can check "Add 
 
 Now, let's also add a short introduction about our dataset to the `README.md` file. We'll use the one from the original Kaggle dataset.
 
-![[../assets/Pasted image 20240515003021.png]]
+![[assets/Pasted image 20240515003021.png]]
 
 Now we need to add our dataset files to our repository. The universities dataset we're using only has a single `csv` file. Let's download it and upload it to our repository. We're going to name it `data.csv` but you can name it whatever you want.
 
@@ -34,7 +34,7 @@ Now we need to add our dataset files to our repository. The universities dataset
 
 Here is how your repository should look like at this stage:
 
-![[../assets/Pasted image 20240517225336.png]]
+![[assets/Pasted image 20240517225336.png]]
 
 > [!hint]
 > If you're new to GitHub, here are simple instructions on uploading files to a repository: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
@@ -45,7 +45,7 @@ We're not done yet, but let's first publish our repository with DataHub Cloud fi
 
 Go to your DataHub Cloud account and click on "Create New Site" button at the top of the screen. Then, select your newly created GitHub repository and submit the form. You should now be redirected to the settings page of your newly created DataHub Cloud site. Click on the "Visit" button to see how your site looks!
 
-![[../assets/Pasted image 20240515003051.png]]
+![[assets/Pasted image 20240515003051.png]]
 
 As you can see, there is no mention of your data file. The current landing page only shows our `README.md` page content. Obviously, this requires some more work. We need to describe our dataset for DataHub Cloud, so that it can display information about it to our site's visitors.
 
@@ -89,8 +89,8 @@ Now, commit your changes, go to your DataHub Cloud dashboard, and **"Sync" your 
 
 This is what the resulting site looks like:
 
-![[../assets/Pasted image 20240517224144.png]]
-![[../assets/Pasted image 20240515010236.png]]
-![[../assets/Pasted image 20240515010252.png]]
+![[assets/Pasted image 20240517224144.png]]
+![[assets/Pasted image 20240515010236.png]]
+![[assets/Pasted image 20240515010252.png]]
 
 Congratulations! You've just learned how to publish a dataset with DataHub Cloud. As you can see, some of the metadata fields in the layout are currently empty. The more information you provide is obviously the better, so we encourage you to explore the full set of currently supported fields in [our template](https://github.com/datahubio/datahub-cloud-template/tree/main).
