@@ -1,4 +1,4 @@
-# Tutorial 1: Create a dataset from scratch and publish it with Datahub Cloud
+# Create a dataset from scratch and publish it with Datahub Cloud
 
 In this tutorial, we're going to learn how to publish a dataset (multiple data files or a single data file) with DataHub Cloud.
 
