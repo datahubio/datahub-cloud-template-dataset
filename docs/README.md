@@ -8,10 +8,10 @@ Datahub Cloud is your stupidly simple and fast tool for turning datasets and dat
 
 # Tutorials
 
-1. [Create-a-dataset-from-scratch-and-publish-it](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Create%20a%20dataset%20from%20scratch%20and%20publish%20it)
-2. [Add-visuals-and-data-rich-components](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20visuals%20and%20data-rich%20components)
-3. [Add-sidebar-navigation](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20sidebar%20navigation)
-4. [Publish-your-Obsidian-Vault](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Publish%20your%20Obsidian%20vault)
+1. [Create a dataset from scratch and publish it](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Create%20a%20dataset%20from%20scratch%20and%20publish%20it)
+2. [Add visuals and data-rich components](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20visuals%20and%20data-rich%20components)
+3. [Add sidebar navigation](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20sidebar%20navigation)
+4. [Publish your Obsidian Vault](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Publish%20your%20Obsidian%20vault)
 
 # Quick Start
 
