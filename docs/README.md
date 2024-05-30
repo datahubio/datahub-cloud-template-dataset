@@ -15,7 +15,7 @@ Datahub Cloud is your stupidly simple and fast tool for turning datasets and dat
 
 # Quick Start
 
-The quickest way to start publishing with Datahub Cloud is to use our template and customize it to fit your needs. You can do that in 6 simple steps:
+The quickest way to start publishing with Datahub Cloud is to use our template and customize it to fit your needs. You can do that in 5 simple steps:
 
 1. Start off from our [template](https://github.com/datahubio/datahub-cloud-template) 
 2. Click "Use this template" at the top right and create the repository (can be public or private - works with both)
