@@ -6,13 +6,12 @@ Datahub Cloud is your stupidly simple and fast tool for turning datasets and dat
 
 > Note: The current version of Datahub Cloud runs only off Github.
 
-# Table of contents
+# Tutorials
 
-1. Quick start
-2. Create a dataset from scratch and publish it with Datahub Cloud
-3. Adding visuals and data-rich components
-4. Adding sidebar navigation (alpha version)
-5. Publish your Obsidian Vault
+1. [[Create a dataset from scratch and publish it]]
+2. [[Add visuals and data-rich components]]
+3. [[Add sidebar navigation]]
+4. [[Publish your Obsidian Vault]]
 
 # Quick Start
 
