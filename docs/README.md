@@ -8,10 +8,10 @@ Datahub Cloud is your stupidly simple and fast tool for turning datasets and dat
 
 # Tutorials
 
-1. [[docs/Create a dataset from scratch and publish it.md]]
-2. [[docs/Add visuals and data-rich components.md]]
-3. [[docs/Add sidebar navigation.md]]
-4. [[docs/Publish your Obsidian Vault.md]]
+1. [[Create a dataset from scratch and publish it]]
+2. [[Add visuals and data-rich components]]
+3. [[Add sidebar navigation]]
+4. [[Publish your Obsidian Vault]]
 
 # Quick Start
 
