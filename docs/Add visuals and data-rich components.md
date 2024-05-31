@@ -46,8 +46,8 @@ You can use several data preview and data visualization components to make your 
 - Tabluar
   - Excel
   - FlatUiTable
-- Embedding
-  - Iframe
+- Embedding (PowerBi reports, Google Lookerstudio, etc)
+  - Iframe 
   - PdfViewer 
 - Line Charts and Bar Charts
   - Plotly Charts
@@ -328,7 +328,7 @@ Simply copy and paste the following code snippet in the markdown file in your Gi
 
 ## Iframe
 
-If you're working with Microsoft Power BI reports of similar, you can embed it within your page as follows:
+If you're working with Microsoft Power BI reports or Google Lookerstudio or any similar, you can embed them within your page as follows:
 
 <Iframe
   data={{
@@ -340,7 +340,7 @@ If you're working with Microsoft Power BI reports of similar, you can embed it w
   }}
 />
 
-Simply copy and paste the following code snippet in the markdown file in your Github repository:
+Simply copy and paste the following code snippet in the markdown file in your GitHub repository:
 
 ```
 <Iframe
@@ -354,7 +354,8 @@ Simply copy and paste the following code snippet in the markdown file in your Gi
 />
 ```
 
-The only thing you need to do after that is to replace the url with the correct one.
+The only thing you need to do after that is to replace the URL with the correct one.
+
 
 ## PdfViewer
 
