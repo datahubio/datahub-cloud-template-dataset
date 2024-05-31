@@ -42,18 +42,8 @@ Depending on the type of feature you selected from the list https://storybook.po
 
 You can use several data preview and data visualization components to make your dataset more insightful.
 
-- Catalog
-- Tabluar
-  - Excel
-  - FlatUiTable
-- Embedding (PowerBi reports, Google Lookerstudio, etc)
-  - Iframe 
-  - PdfViewer 
-- Line Charts and Bar Charts
-  - Plotly Charts
-  - VegaLite Charts
-- Geospatial
-  - Map
+> [!hint]
+> If the feature you need isn't on the list, ping us on [discord](https://discord.gg/KZSf3FG4EZ) or create an issue in the [datahub repository](https://github.com/datopian/datahub/issues) requesting it and we promise to look into it! 
 
 ## Catalog 
 
