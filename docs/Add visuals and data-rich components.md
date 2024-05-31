@@ -423,7 +423,7 @@ You can insert a Plotly Bar Chart like this one:
   yAxis="AAPL.Open"
 />
 
-Simply copy and paste the following code snippet and update the values to reflect your data points:
+Simply copy and paste the following code snippet and update the URL and the title, xAxis, yAxis to reflect your data points:
 
 ```
 <PlotlyBarChart
@@ -435,6 +435,8 @@ Simply copy and paste the following code snippet and update the values to reflec
   yAxis="AAPL.Open"
 />
 ```
+
+
 
 > [!info] Line Chart
 
@@ -449,7 +451,7 @@ Same goes for this Line Chart:
   yAxis="Price"
 />
 
-Copy and paste the following code snippet and update the values to reflect your data points:
+Copy and paste the following code snippet and update the URL and the title, xAxis, yAxis to reflect your data points:
 
 ```
 <PlotlyLineChart
