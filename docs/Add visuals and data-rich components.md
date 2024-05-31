@@ -29,7 +29,7 @@ You can check the full list and API of the available features here [https://stor
 > [!info] To import a feature from URL, simply upload your data file to your Github repository and replace the URL in the copied code. Relative paths are supported.
 > For concrete examples, please continue reading.
 
-# Different ways to insert a component 
+## Different ways to insert a component 
 
 Depending on the type of feature you selected from the list https://storybook.portaljs.org, you need to copy-paste the code block into your md file and:
 
