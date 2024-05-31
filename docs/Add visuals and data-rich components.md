@@ -442,30 +442,11 @@ Same goes for this Line Chart:
 
 <PlotlyLineChart
   data={{
-  values: [
-      {
-        temperature: -0.41765878,
-        year: '1850'
-      },
-      {
-        temperature: -0.2333498,
-        year: '1851'
-      },
-      {
-        temperature: -0.22939907,
-        year: '1852'
-      },
-      {
-        temperature: -0.27035445,
-        year: '1853'
-      },
-      {
-        temperature: -0.29163003,
-        year: '1854'
-      }
-  ]}}
-  xAxis="year"
-  yAxis="temperature"
+    url: 'https://raw.githubusercontent.com/datasets/oil-prices/main/data/wti-year.csv'
+  }}
+  title="Oil Price x Year"
+  xAxis="Date"
+  yAxis="Price"
 />
 
 Copy and paste the following code snippet and update the values to reflect your data points:
@@ -473,30 +454,11 @@ Copy and paste the following code snippet and update the values to reflect your 
 ```
 <PlotlyLineChart
   data={{
-  values: [
-      {
-        temperature: -0.41765878,
-        year: '1850'
-      },
-      {
-        temperature: -0.2333498,
-        year: '1851'
-      },
-      {
-        temperature: -0.22939907,
-        year: '1852'
-      },
-      {
-        temperature: -0.27035445,
-        year: '1853'
-      },
-      {
-        temperature: -0.29163003,
-        year: '1854'
-      }
-  ]}}
-  xAxis="year"
-  yAxis="temperature"
+    url: 'https://raw.githubusercontent.com/datasets/oil-prices/main/data/wti-year.csv'
+  }}
+  title="Oil Price x Year"
+  xAxis="Date"
+  yAxis="Price"
 />
 ```
 
