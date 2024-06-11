@@ -29,10 +29,10 @@ For example, putting the following in the `config.json` file:
 
 ...will result in the following SEO values (note, that `title` tag's value is set to the actual page title, which takes precedence over the site-wide title):
 
-![[assets/Pasted image 20240520152158.png]]
+![[./assets/Pasted image 20240520152158.png]]
 
 ... and the following navbar title change:
-![[assets/Pasted image 20240520152011.png]]
+![[./assets/Pasted image 20240520152011.png]]
 
 ## Changing Navbar's Logo, Title and Links 
 
@@ -44,7 +44,7 @@ As you just saw, setting the `title` field in `config.json` already changes/sets
 }
 ```
 
-![[assets/Pasted image 20240520154656.png]]
+![[./assets/Pasted image 20240520154656.png]]
 
 ## Changing Links in the Navbar
 
@@ -73,7 +73,7 @@ For example:
 }
 ```
 
-![[assets/Pasted image 20240520155132.png]]
+![[./assets/Pasted image 20240520155132.png]]
 
 ## Conclusion
 
