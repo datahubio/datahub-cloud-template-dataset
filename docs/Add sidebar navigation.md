@@ -10,4 +10,4 @@ You can enable the sidebar by adding config.json file in the root of your site's
 
 Here's how it should look like:"
 
-![[Screenshot3.png]]
+![[assets/Screenshot3.png]]
