@@ -41,7 +41,7 @@ date: 2024-04-24]
 
 ### Photo of the Week
 
-![[./assets/auroras.jpeg]]
+![[auroras.jpeg]]
 
 ---
 
@@ -142,7 +142,7 @@ The markdown file now looks like this:
 
 ### Photo of the Week
 
-![[./assets/auroras.jpeg]]
+![[auroras.jpeg]]
 
 ---
 ```
