@@ -14,12 +14,12 @@ You can check the full list and API of the available features here [https://stor
 
 1. Select the desired component you want to add from the sidebar list:
 
-![[assets/Screenshot1.png]]
+![[./assets/Screenshot1.png]]
 
 2. Click on "Docs"
 3. Hit "Show code" at the bottom right of the showcased feature
 
-![[assets/Screenshot2.png]]
+![[./assets/Screenshot2.png]]
 
 6. Copy-paste the code into your markdown file in your GitHub repository
 7. Commit the changes made
