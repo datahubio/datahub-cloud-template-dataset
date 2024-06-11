@@ -15,7 +15,7 @@ In this tutorial, we're going to explore how you can personalise the appearance 
 
 Here is an example landing page of a site published with DataHub Cloud that we're going to style. You can use any of your DataHub Cloud sites.
 
-![[css-tutorial-1.png]]
+![[./assets/css-tutorial-1.png]]
 
 Here is the underlying markdown content:
 
@@ -41,7 +41,7 @@ date: 2024-04-24]
 
 ### Photo of the Week
 
-![[auroras.jpeg]]
+![[./assets/auroras.jpeg]]
 
 ---
 
@@ -90,7 +90,7 @@ h3, h6 {
 
 Here is the end result on our example page. Pretty nice, huh?
 
-![[css-tutorial-2.png]]
+![[./assets/css-tutorial-2.png]]
 
 ### Step 3: Style Anything You Want
 
@@ -142,7 +142,7 @@ The markdown file now looks like this:
 
 ### Photo of the Week
 
-![[auroras.jpeg]]
+![[./assets/auroras.jpeg]]
 
 ---
 ```
@@ -197,7 +197,7 @@ Back in your `custom.css` file, add the following styles (or other!) for your cu
 
 Once again, commit your changes. Now, head to your DataHub Cloud dashboard and **sync your site**. Now you can refresh your browser and you should see your landing page with the styled hero. Our example looks like this:
 
-![[css-tutorial-3.png]]
+![[./assets/css-tutorial-3.png]]
 
 You can also add this extra hack to make the hero break out of the parent container and span the whole site width:
 
@@ -209,7 +209,7 @@ You can also add this extra hack to make the hero break out of the parent contai
 }
 ```
 
-![[css-tutorial-4.png]]
+![[./assets/css-tutorial-4.png]]
 
 ## Conclusion
 
