@@ -12,7 +12,7 @@ The quickest way to start publishing with Datahub Cloud is to use our template a
 
 1. Start off from our [template](https://github.com/datahubio/datahub-cloud-template) 
 2. Click "Use this template" at the top right and create the repository (can be public or private - works with both)
-3. Go to the app and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
+3. Go to [the app](https://0613d040.sibforms.com/serve/MUIFAMLy5tXMDC-gFjXRxBEcvyVYV9O9KLVoKMp1n6WMXE4LBazZkkV78pTBf3FnJHdhQpJoOYL3KsAbAv9yDYJooerqar47yy2RQkuP_Vs0CEkHexRMrkWsbKtTIi_DMOa9KfzpRVFa959hSXqJByMY5Gj9OrZtEX3ZrfO5OJHh7fLxh3nYgnNIBwGTpxJ25XA_MxOKv_kHKNgM) and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
 5. That's it! It is now published. Hit the green "Visit" button at the top right to see what it looks like.
 6. Go to [Add visuals and data-rich components](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20visuals%20and%20data-rich%20components) if you want to add some extra features 
 
