@@ -1,4 +1,4 @@
-# Tutorial: Customize Your DataHub Cloud Site with CSS
+# Customize Your DataHub Cloud Site with CSS
 
 ## Introduction
 
