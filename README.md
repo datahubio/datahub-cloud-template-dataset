@@ -49,7 +49,7 @@ Here are some quick examples:
 
 > [!info] This is cool!
 > Here's a callout block.
-> It supports **markdown** and [[Internal link|wikilinks]].
+> It supports **markdown** and ```[[Internal link|wikilinks]]```.
 
 Or you can quickly embed a piece of code as follows:
 
