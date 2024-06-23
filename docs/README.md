@@ -14,12 +14,16 @@ The quickest way to start publishing with Datahub Cloud is to publish our templa
 1. Go to [template](https://github.com/datahubio/datahub-cloud-template) and click "Use this template" at the top right to create a new repository
 2. Go to [the app](https://0613d040.sibforms.com/serve/MUIFAMLy5tXMDC-gFjXRxBEcvyVYV9O9KLVoKMp1n6WMXE4LBazZkkV78pTBf3FnJHdhQpJoOYL3KsAbAv9yDYJooerqar47yy2RQkuP_Vs0CEkHexRMrkWsbKtTIi_DMOa9KfzpRVFa959hSXqJByMY5Gj9OrZtEX3ZrfO5OJHh7fLxh3nYgnNIBwGTpxJ25XA_MxOKv_kHKNgM) and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
 3. Done, it is now published! Just hit the green "Visit" button at the top right to see what it looks like.
-4. You have several options on how to continue exploring:
-    - You can customize the template by editing the .md file in the repo and adding relevant data files (if any).
-    - Explore different [visuals and data-rich components](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20visuals%20and%20data-rich%20components) that you can add to your page
-    - Publish an existing repository of your own and see what it looks like when published with Datahub Cloud. For any issues or errors, please open an issue here https://github.com/datopian/datahub/issues
-    - Create a new repository in Github. Create a README.md file, add some information in it and publish it with Datahub Cloud. You can check out this [quick tutorial](https://datahub.io/@olayway/docs/Create%20a%20dataset%20from%20scratch%20and%20publish%20it) if you need guidance. 
-    - Publish your Obsidian notes. Here's a [quick tutorial](https://datahub.io/@olayway/docs/Publish%20your%20Obsidian%20vault) on how to do that
+
+# What do I do after that
+
+Once you published our template and you got an idea of how this works, you have several options on how to continue:
+
+1. You can customize the template by editing the .md file in the repo and adding relevant data files (if any).
+2. Explore different [visuals and data-rich components](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20visuals%20and%20data-rich%20components) that you can add to your page
+3. Publish an existing repository of your own and see what it looks like when published with Datahub Cloud. For any issues or errors, please open an issue here https://github.com/datopian/datahub/issues
+4. Create a new repository in Github. Create a README.md file, add some information in it and publish it with Datahub Cloud. You can check out this [quick tutorial](https://datahub.io/@olayway/docs/Create%20a%20dataset%20from%20scratch%20and%20publish%20it) if you need guidance.
+5. Publish your Obsidian notes. Here's a [quick tutorial](https://datahub.io/@olayway/docs/Publish%20your%20Obsidian%20vault) on how to do that
 
 # What syntax is supported?
 
