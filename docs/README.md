@@ -1,24 +1,29 @@
 # Docs 
 
-Welcome to Datahub Cloud documentation! 
+## What is Datahub Cloud 
 
-Datahub Cloud is your stupidly simple and fast tool for turning datasets and data-driven content on GitHub into a published, shareable site.
+Datahub Cloud is your stupidly simple and fast tool for turning your datasets and data-driven content on GitHub into a published, shareable site. It converts raw data and Markdown files into beautifully presented, interactive sites.
 
-> Note: The current version of Datahub Cloud runs only off Github.
+> [!note]
+> The current version of Datahub Cloud runs only off Github.
 
-# Quick Start
+# How to deploy your first site within seconds
 
-The quickest way to start publishing with Datahub Cloud is to use our template and customize it to fit your needs. You can do that in 5 simple steps:
+The quickest way to start publishing with Datahub Cloud is to publish our template and customize it to fit your needs. You can do that in 5 simple steps:
 
-1. Start off from our [template](https://github.com/datahubio/datahub-cloud-template) 
-2. Click "Use this template" at the top right and create the repository (can be public or private - works with both)
-3. Go to [the app](https://0613d040.sibforms.com/serve/MUIFAMLy5tXMDC-gFjXRxBEcvyVYV9O9KLVoKMp1n6WMXE4LBazZkkV78pTBf3FnJHdhQpJoOYL3KsAbAv9yDYJooerqar47yy2RQkuP_Vs0CEkHexRMrkWsbKtTIi_DMOa9KfzpRVFa959hSXqJByMY5Gj9OrZtEX3ZrfO5OJHh7fLxh3nYgnNIBwGTpxJ25XA_MxOKv_kHKNgM) and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
-5. That's it! It is now published. Hit the green "Visit" button at the top right to see what it looks like.
-6. Go to [Add visuals and data-rich components](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20visuals%20and%20data-rich%20components) if you want to add some extra features 
+1. Go to [template](https://github.com/datahubio/datahub-cloud-template) and click "Use this template" at the top right to create a new repository
+2. Go to [the app](https://0613d040.sibforms.com/serve/MUIFAMLy5tXMDC-gFjXRxBEcvyVYV9O9KLVoKMp1n6WMXE4LBazZkkV78pTBf3FnJHdhQpJoOYL3KsAbAv9yDYJooerqar47yy2RQkuP_Vs0CEkHexRMrkWsbKtTIi_DMOa9KfzpRVFa959hSXqJByMY5Gj9OrZtEX3ZrfO5OJHh7fLxh3nYgnNIBwGTpxJ25XA_MxOKv_kHKNgM) and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
+3. Done, it is now published! Just hit the green "Visit" button at the top right to see what it looks like.
+4. You have several options on how to continue exploring:
+  - You can customize the template by editing the .md file in the repo and adding relevant data files (if any).
+  - Explore different [visuals and data-rich components](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20visuals%20and%20data-rich%20components) that you can add to your page
+  - Publish an existing repository of your own and see what it looks like when published with Datahub Cloud. For any issues or errors, please open an issue here https://github.com/datopian/datahub/issues
+  - Create a new repository in Github. Create a README.md file, add some information in it and publish it with Datahub Cloud. You can check out this [quick tutorial](https://datahub.io/@olayway/docs/Create%20a%20dataset%20from%20scratch%20and%20publish%20it) if you need guidance. 
+  - Publish your Obsidian notes. Here's a [quick tutorial](https://datahub.io/@olayway/docs/Publish%20your%20Obsidian%20vault) on how to do that
 
 # What syntax is supported?
 
 Datahub Cloud supports CommonMark and GitHub Flavored Markdown, but also many Obsidian-specific syntax elements, like Wiki links or footnotes[^1].
 
-For more syntax elements supported by Datahub Cloud, see https://flowershow.app/docs/syntax#commonmark
+For more syntax elements supported by Datahub Cloud, see [Markdown syntax support](https://datahub.io/@olayway/docs/Markdown%20syntax%20support)
 
