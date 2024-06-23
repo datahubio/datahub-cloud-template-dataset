@@ -19,6 +19,24 @@ The quickest way to start publishing with Datahub Cloud is to publish our templa
 
 Once you published our template and you got an idea of how this works, you have several options on how to continue:
 
+
+```mermaid
+  graph TD
+
+whattodoafter["❓What to do after that"]
+customize["👷‍♂️ Customize template"]
+addvisuals["📈 Add visuals"]
+publishrepo[" 🏖️ Publish another repo of your own"]
+newrepo[" 🆕 Create a new repo"]
+obsidian["🖋️ Publish your Obsidian notes"]
+
+whattodoafter-->customize
+whattodoafter-->addvisuals
+whattodoafter-->publishrepo
+whattodoafter-->newrepo
+whattodoafter-->obsidian
+```
+
 1. You can customize the template by editing the .md file in the repo and adding relevant data files (if any).
 2. Explore different [visuals and data-rich components](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20visuals%20and%20data-rich%20components) that you can add to your page
 3. Publish an existing repository of your own and see what it looks like when published with Datahub Cloud. For any issues or errors, please open an issue here https://github.com/datopian/datahub/issues
