@@ -1,6 +1,6 @@
 # Docs 
 
-## Datahub Cloud in a sentence
+## Datahub Cloud in a nutshell
 
 Datahub Cloud is your stupidly simple and fast tool for turning your datasets and data-driven content on GitHub into a published, shareable site. It converts raw data and Markdown files into beautifully presented, interactive sites.
 
