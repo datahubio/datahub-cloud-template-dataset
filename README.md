@@ -43,7 +43,7 @@ Feel free to customize the data package frontmatter accordingly when publishing 
 
 You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with other data visualisation components and markdown features.
 
-> Note: For a full list of supported markdown features visit https://flowershow.app/docs/syntax
+> Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/@olayway/docs/Markdown%20syntax%20support)
 
 Here are some quick examples:
 
