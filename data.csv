@@ -1,8 +1,69 @@
-year,co2
-1960,316
-1970,325
-1980,338
-1990,354
-2000,369
-2010,388
-2020,412
+Symbol,Name,Industry,Sector,Exchange,Cap mln,Last,Change,Change %,Volume
+GSFC.NS,Gujarat State Fertilizers & Chemicals Ltd,Agricultural Inputs,Basic Materials,NSE,94854,242.77,4.73,1.99,4909552
+MADRASFERT.NS,Madras Fertilizers Ltd,Agricultural Inputs,Basic Materials,NSE,17539,108.30,1.9,1.79,2172633
+MANGCHEFER.NS,Mangalore Chemicals & Fertilizers Ltd,Agricultural Inputs,Basic Materials,NSE,15247,128.51,2.39,1.9,461103
+RALLIS.NS,Rallis India Ltd,Agricultural Inputs,Basic Materials,NSE,61209,317.30,2.55,0.81,419535
+ACC.NS,ACC Ltd,Building Materials,Basic Materials,NSE,481495,2606.00,36.3,1.41,841353
+AMBUJACEM.NS,Ambuja Cements Ltd,Building Materials,Basic Materials,NSE,1598072,655.35,6.55,1.01,3155349
+BIRLACORPN.NS,Birla Corp Ltd,Building Materials,Basic Materials,NSE,118619,1600.95,69.6,4.55,287913
+NCLIND.NS,NCL Industries Ltd,Building Materials,Basic Materials,NSE,10708,241.90,6.05,2.57,759665
+NUVOCO.NS,Nuvoco Vistas Corp Ltd,Building Materials,Basic Materials,NSE,125040,359.45,9.4,2.69,835640
+PRSMJOHNSN.NS,Prism Johnson Ltd,Building Materials,Basic Materials,NSE,82873,170.67,5.92,3.59,2008535
+RAMCOCEM.NS,The Ramco Cements Ltd,Building Materials,Basic Materials,NSE,201144,881.00,29.75,3.49,3461226
+SHREDIGCEM.NS,Shree Digvijay Cement Company Ltd,Building Materials,Basic Materials,NSE,16235,111.89,1.77,1.61,2589776
+SHREECEM.NS,Shree Cement Ltd,Building Materials,Basic Materials,NSE,982028,27567,349.5,1.28,43749
+ULTRACEMCO.NS,UltraTech Cement Ltd,Building Materials,Basic Materials,NSE,3129762,11180,334.3,3.08,586331
+EPIGRAL.NS,Epigral Ltd,Chemicals,Basic Materials,NSE,57574,1363.00,8.85,0.65,39735
+INDIAGLYCO.NS,India Glycols Ltd,Chemicals,Basic Materials,NSE,27618,896.75,9.35,1.05,44605
+NAVINFLUOR.NS,Navin Fluorine International Ltd,Chemicals,Basic Materials,NSE,175338,3624.60,87.75,2.48,186757
+CENTURYPLY.NS,Century Plyboards (India) Ltd,Lumber & Wood Production,Basic Materials,NSE,156032,716.05,13.8,1.97,95927
+VEDL.NS,Vedanta Ltd,Other Industrial Metals & Mining,Basic Materials,NSE,1696281,444.00,-10.05,-2.21,145776416
+AMIORG.NS,Ami Organics Ltd,Specialty Chemicals,Basic Materials,NSE,53643,1337.00,25.75,1.96,248273
+PRAKASH.NS,Prakash Industries Ltd,Steel,Basic Materials,NSE,32761,185.71,3.25,1.78,645340
+SURYAROSNI.NS,Surya Roshni Ltd,Steel,Basic Materials,NSE,66581,616.45,2.95,0.48,150882
+SUNTV.NS,Sun TV Network Ltd,Broadcasting,Communication Services,NSE,295761,772.00,21.5,2.86,612195
+ZEEL.NS,Zee Entertainment Enterprises Ltd,Broadcasting,Communication Services,NSE,143905,156.10,7.37,4.96,23944356
+BHARTIARTL.NS,Bharti Airtel Ltd,Telecom Services,Communication Services,NSE,8452020,1444.00,29.05,2.05,3052169
+CEATLTD.NS,CEAT Ltd,Auto Parts,Consumer Cyclical,NSE,100173,2482.30,5.85,0.24,72977
+FIEMIND.NS,Fiem Industries Ltd,Auto Parts,Consumer Cyclical,NSE,33697,1330.00,49.7,3.88,118528
+SONACOMS.NS,Sona BLW Precision Forgings Ltd,Auto Parts,Consumer Cyclical,NSE,372107,642.25,8.35,1.32,500972
+SAFARI.NS,Safari Industries (India) Ltd,Footwear & Accessories,Consumer Cyclical,NSE,100078,2078.90,26.75,1.3,88811
+ARROWGREEN.NS,Arrow Greentech Ltd,Packaging & Containers,Consumer Cyclical,NSE,8206.84,559.00,22.1,4.12,70902
+ICIL.NS,Indo Count Industries Ltd,Textile Manufacturing,Consumer Cyclical,NSE,72517,383.70,17.7,4.84,731845
+SARLAPOLY.NS,Sarla Performance Fibers Ltd,Textile Manufacturing,Consumer Cyclical,NSE,8141.4,103.30,7.3,7.6,3671610
+VTL.NS,Vardhman Textiles Ltd,Textile Manufacturing,Consumer Cyclical,NSE,138457,489.45,10.55,2.2,142800
+DODLA.NS,Dodla Dairy Ltd,Food Distribution,Consumer Defensive,NSE,60973,1038.15,19.4,1.9,47125
+DABUR.NS,Dabur India Ltd,Household & Personal Products,Consumer Defensive,NSE,1054347,601.45,8.1,1.37,1477690
+GODREJCP.NS,Godrej Consumer Products Ltd,Household & Personal Products,Consumer Defensive,NSE,1405504,1418.60,43.1,3.13,1127465
+BRITANNIA.NS,Britannia Industries Ltd,Packaged Foods,Consumer Defensive,NSE,1286570,5404.35,52.3,0.98,105514
+NESTLEIND.NS,NestlÈ India Ltd,Packaged Foods,Consumer Defensive,NSE,2425289,2540.00,24.55,0.98,238242
+RELIANCE.NS,Reliance Industries Ltd,Oil & Gas Refining & Marketing,Energy,NSE,19678228,2986.55,78.25,2.69,4684425
+BANDHANBNK.NS,Bandhan Bank Ltd,Banks - Regional,Financial Services,NSE,327752,206.60,3.15,1.55,9792715
+INDUSINDBK.NS,IndusInd Bank Ltd,Banks - Regional,Financial Services,NSE,1168983,1508.10,12.55,0.84,2755465
+RBLBANK.NS,RBL Bank Ltd,Banks - Regional,Financial Services,NSE,154663,257.48,3.76,1.48,3766162
+SMCGLOBAL.NS,SMC Global Securities Ltd,Capital Markets,Financial Services,NSE,16854,163.83,2.86,1.78,426598
+HUDCO.NS,Housing and Urban Development Corp Ltd,Credit Services,Financial Services,NSE,550823,286.65,11.5,4.18,17704464
+IFCI.NS,IFCI Ltd,Credit Services,Financial Services,NSE,163088,64.01,2.02,3.26,24092640
+IIFL.NS,IIFL Finance Ltd,Credit Services,Financial Services,NSE,196272,478.10,18,3.91,1895462
+IREDA.NS,Indian Renewable Energy Development Agency Ltd,Credit Services,Financial Services,NSE,504093,197.00,11.95,6.46,53170104
+PEL.NS,Piramal Enterprises Ltd,Financial Conglomerates,Financial Services,NSE,197603,907.70,27.3,3.1,3667170
+BIOCON.NS,Biocon Ltd,Biotechnology,Healthcare,NSE,406014,344.70,5.45,1.61,2713277
+ABBOTINDIA.NS,Abbott India Ltd,Drug Manufacturers - General,Healthcare,NSE,567356,27623,766.95,2.86,18597
+GLENMARK.NS,Glenmark Pharmaceuticals Ltd,Drug Manufacturers - Specialty & Generic,Healthcare,NSE,342364,1227.50,14.15,1.17,401834
+IOLCP.NS,IOL Chemicals and Pharmaceuticals Ltd,Drug Manufacturers - Specialty & Generic,Healthcare,NSE,23934,410.10,5.3,1.31,143855
+STAR.NS,Strides Pharma Science Ltd,Drug Manufacturers - Specialty & Generic,Healthcare,NSE,87045,957.90,10.9,1.15,172058
+BDL.NS,Bharat Dynamics Ltd,Aerospace & Defense,Industrials,NSE,566650,1606.15,60.8,3.93,5547566
+GMRINFRA.NS,GMR Airports Infrastructure Ltd,Airports & Air Services,Industrials,NSE,573838,98.10,3.03,3.19,36984220
+FINPIPE.NS,Finolex Industries Ltd,Building Products & Equipment,Industrials,NSE,206959,337.20,2.5,0.75,546855
+PRINCEPIPE.NS,Prince Pipes and Fittings Ltd,Building Products & Equipment,Industrials,NSE,74126,702.05,31.6,4.71,1032917
+BBL.NS,Bharat Bijlee Ltd,Electrical Equipment & Parts,Industrials,NSE,54487,4943.95,123.4,2.56,35728
+WELENT.NS,Welspun Enterprises Ltd,Engineering & Construction,Industrials,NSE,59606,463.30,26.3,6.02,302847
+ESCORTS.NS,Escorts Kubota Ltd,Farm & Heavy Construction Machinery,Industrials,NSE,454471,4257.40,58.7,1.4,96141
+SNOWMAN.NS,Snowman Logistics Ltd,Integrated Freight & Logistics,Industrials,NSE,12105,74.43,2.74,3.82,1084030
+JWL.NS,Jupiter Wagons Ltd,Railroads,Industrials,NSE,270650,677.55,21.1,3.21,927189
+BLS.NS,BLS International Services Ltd,Specialty Business Services,Industrials,NSE,144935,358.00,5.65,1.6,2584417
+INGERRAND.NS,Ingersoll-Rand (India) Ltd,Specialty Industrial Machinery,Industrials,NSE,147459,4721.00,50.8,1.09,10678
+INOXINDIA.NS,INOX India Ltd,Specialty Industrial Machinery,Industrials,NSE,118147,1317.80,22.25,1.72,188845
+SWELECTES.NS,Swelect Energy Systems Ltd,Solar,Technology,NSE,19325,1307.80,45.35,3.59,62763
+SWSOLAR.NS,Sterling and Wilson Renewable Energy Ltd,Solar,Technology,NSE,168100,730.20,9.6,1.33,615637
+NLCINDIA.NS,NLC India Ltd,Utilities - Regulated Electric,Utilities,NSE,324570,243.32,9.48,4.05,7476423
