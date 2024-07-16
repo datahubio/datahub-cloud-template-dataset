@@ -5,11 +5,9 @@
 
 # Adding visuals and data-rich components
 
-Now that you have published your dataset, you can add more features to make it data-richer.
-
 > [!info] Github is playing the role of your Editor.
 > Any changes you want to make to your published site, you need to make in your GitHub repository first.
-> Once you hit "sync" on your Site dashboard, the changes get reflected on your published site.
+> Once you hit "sync" on your Site dashboard, the changes get reflected on your published site (unless you turn on the Auto-sync)
 
 You can check the full list and API of the available features here [https://storybook.portaljs.org](https://storybook.portaljs.org)
 
