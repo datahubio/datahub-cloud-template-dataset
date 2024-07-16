@@ -2,7 +2,7 @@
 {
   "showSidebar": true,
   "sidebarOrder": [
-    "Overview",
+    "Documentation",
     "Create a dataset from scratch and publish it",
     "Add visuals and data-rich components",
     "How to customize your site with CSS",
