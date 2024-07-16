@@ -1,14 +1,3 @@
 {
   "showSidebar": true,
-  "sidebarOrder": [
-    "Documentation",
-    "Create a dataset from scratch and publish it with Datahub Cloud",
-    "Add visuals and data-rich components",
-    "Customize Your Datahub Cloud Site with CSS",
-    "Add sidebar navigation",
-    "Auto-Sync of your Site",
-    "Configuring Nav bar and SEO fields",
-    "Markdown syntax support",
-    "How to push an Obsidian vault to a Github repository"
-  ]
 }
