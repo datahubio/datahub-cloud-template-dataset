@@ -40,17 +40,17 @@ whattodoafter-->obsidian
 It goes without saying that you can directly start by updating the .md file in your repo
 
 <div class="middle-button-container">
-    <h3 class="h3-title-heading">Customize your site with CSS and HTML<br/>🧮📽️</h3>
+    <h3 class="h3-title-heading">Customize your site with CSS and HTML 🧮📽️<br/></h3>
     <a href="https://datahub.io/@olayway/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">How do I customize my site with CSS and HTML</a>
 </div>
 
 <div class="middle-button-container">
-    <h3 class="h3-title-heading">Add some visuals<br/>📊</h3>
+    <h3 class="h3-title-heading">Add some visuals📊<br/></h3>
     <a href="https://datahub.io/@olayway/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">How do I add visuals</a>
 </div>
 
 <div class="middle-button-container">
-    <h3 class="h3-title-heading">Add sidebar navigation<br/></h3>
+    <h3 class="h3-title-heading">Add sidebar navigation✔️<br/></h3>
     <a href="https://datahub.io/@olayway/docs/Add%20sidebar%20navigation" class="middle-button">How to add sidebar navigation</a>
 </div>
 
