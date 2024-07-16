@@ -1,10 +1,10 @@
 /* Change heading fonts and colors */
 .bg-background {
-    background: #f9f6f1 !important;
+    background: #fff !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Lucida Console", "Courier New", monospace !important;
+    font-family: "Lucida Console", monospace !important;
     font-weight: bold !important;
 }
 
