@@ -49,3 +49,23 @@ Datahub Cloud supports CommonMark and GitHub Flavored Markdown, but also many Ob
 
 For more syntax elements supported by Datahub Cloud, see [Markdown syntax support](https://datahub.io/@olayway/docs/Markdown%20syntax%20support)
 
+<div class="sidebar">
+    <div class="Readme.md">Overview</div>
+    <div class="Create a dataset from scratch and publish it.md">Create a dataset from scratch and publish it</div>
+    <div class="Add visuals and data-rich components.md">Add visuals and data-rich components</div>
+    <div class="Customize Your DataHub Cloud Site with CSS.md">How to customize your site with CSS</div>
+    <div class="Add sidebar navigation.md">Add sidebar navigation</div>
+    <div class="Auto-Sync of your site.md">Auto-sync of your site</div>
+    <div class="How to configure Datahub Cloud site.md">How to configure your site</div>
+    <div class="Markdown syntax support.md">What syntax is supported</div>
+    <div class="Publish your Obsidian vault.md">Publish your Obsidian vault</div>
+</div>
+
+
+
+
+
+
+
+
+
