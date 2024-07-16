@@ -1,6 +1,5 @@
 <div class="hero">
     <h1 class="hero-title">Configuring Nav bar and SEO fields<br/></h1>
-    <p class="hero-description">Configuring the navigation bar (nav bar) and SEO (Search Engine Optimization) fields in your Datahub Cloud site's config.json file allows you to optimize site navigation and enhance discoverability on search engines. This section will walk you through the steps of configuring these essential settings to ensure your site is well-organized and optimized for search engines.</p>
 </div>
 
 # How to Configure Basic SEO Fields and Nav Bar in Your DataHub Cloud Sites
