@@ -1,6 +1,5 @@
 <div class="hero">
     <h1 class="hero-title">Create a dataset from scratch and publish it with Datahub Cloud<br/></h1>
-    <p class="hero-description">This section will guide you through the entire process of creating a dataset from scratch and publishing it on Datahub Cloud.</p>
 </div>
 
 # Create a dataset from scratch and publish it with Datahub Cloud
