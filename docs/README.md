@@ -1,18 +1,12 @@
 <div class="hero">
     <h1 class="hero-title">Documentation<br/>📚</h1>
-    <p class="hero-description">Welcome to Datahub Cloud documentation. We are constantly trying to improve it so if you notice a gap or want to suggest an improvement please ping us on [discord](https://discord.gg/URNSkepK7z)</p>
+    <p class="hero-description">Welcome to Datahub Cloud documentation. Datahub Cloud is your stupidly simple and fast tool for turning your data stories or datasets on GitHub into a published, shareable site. It converts raw data and Markdown files into beautifully presented, interactive sites.</p>
 </div>
-
-# Docs 
-
-## Datahub Cloud in a nutshell
-
-Datahub Cloud is your stupidly simple and fast tool for turning your data stories or datasets on GitHub into a published, shareable site. It converts raw data and Markdown files into beautifully presented, interactive sites.
 
 > [!note]
 > The current version of Datahub Cloud runs only off Github.
 
-# How to deploy my first site within seconds
+# How to deploy your first site within seconds
 
 The quickest way to start publishing with Datahub Cloud is to publish our template and customize it to fit your needs. You can do that in 5 simple steps:
 
@@ -20,9 +14,9 @@ The quickest way to start publishing with Datahub Cloud is to publish our templa
 2. Go to [the app](https://0613d040.sibforms.com/serve/MUIFAMLy5tXMDC-gFjXRxBEcvyVYV9O9KLVoKMp1n6WMXE4LBazZkkV78pTBf3FnJHdhQpJoOYL3KsAbAv9yDYJooerqar47yy2RQkuP_Vs0CEkHexRMrkWsbKtTIi_DMOa9KfzpRVFa959hSXqJByMY5Gj9OrZtEX3ZrfO5OJHh7fLxh3nYgnNIBwGTpxJ25XA_MxOKv_kHKNgM) and create a new site by selecting the repository you just created (leave the "Root Dir" field empty)
 3. Done, it is now published! Just hit the green "Visit" button at the top right to see what it looks like.
 
-# What to do after that
+# What to do after you publish your first site
 
-Once you published our template and you got an idea of how this works, you have several options on how to customize it:
+After publishing our template and getting a feel for how it works, you have several options to customize it:
 
 ```mermaid
   graph TD
@@ -41,7 +35,7 @@ whattodoafter-->newrepo
 whattodoafter-->obsidian
 ```
 
-## Taking your template to the next level
+## Taking the template to the next level
 
 It goes without saying that you can directly start by updating the .md file in your repo
 
@@ -60,7 +54,7 @@ It goes without saying that you can directly start by updating the .md file in y
     <a href="https://datahub.io/@olayway/docs/Add%20sidebar%20navigation" class="middle-button">How to add sidebar navigation</a>
 </div>
 
-## Start from the scratch
+## Starting from the scratch
 
 Or if that's easier, you can start from scratch or from an existing repo in Github.
 
@@ -86,9 +80,9 @@ Datahub Cloud supports CommonMark and GitHub Flavored Markdown, but also many Ob
 
 For more syntax elements supported by Datahub Cloud, see [Markdown syntax support](https://datahub.io/@olayway/docs/Markdown%20syntax%20support)
 
+## Need help?
 
-
-
+For any questions or suggestions for improvement please ping us on [discord](https://discord.gg/URNSkepK7z)
 
 
 
