@@ -52,7 +52,7 @@ It goes without saying that you can directly start by updating the .md file in y
 
 <div class="middle-button-container">
     <h3 class="h3-title-heading">Add some visuals<br/>📊</h3>
-    <a href="https://datahub.io/@olayway/docs/Add%20visuals%20and%20data-rich%20components">How do I add visuals</a>
+    <a href="https://datahub.io/@olayway/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">How do I add visuals</a>
 </div>
 
 <div class="middle-button-container">
