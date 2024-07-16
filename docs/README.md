@@ -1,8 +1,14 @@
+<div class="hero">
+    <h1 class="hero-title">Documentation<br/>📚</h1>
+    <p class="hero-description">Welcome to Datahub Cloud documentation. We are constantly trying to improve it so if you notice a gap or want to suggest an improvement please ping us on discord https://discord.gg/URNSkepK7z </p>
+    <a href="https://datahub.io/@Daniellappv/glucose-matters-2#insights" class="hero-button">See insights</a>
+</div>
+
 # Docs 
 
 ## Datahub Cloud in a nutshell
 
-Datahub Cloud is your stupidly simple and fast tool for turning your datasets and data-driven content on GitHub into a published, shareable site. It converts raw data and Markdown files into beautifully presented, interactive sites.
+Datahub Cloud is your stupidly simple and fast tool for turning your data stories or datasets on GitHub into a published, shareable site. It converts raw data and Markdown files into beautifully presented, interactive sites.
 
 > [!note]
 > The current version of Datahub Cloud runs only off Github.
@@ -17,8 +23,7 @@ The quickest way to start publishing with Datahub Cloud is to publish our templa
 
 # What to do after that
 
-Once you published our template and you got an idea of how this works, you have several options on how to continue:
-
+Once you published our template and you got an idea of how this works, you have several options on how to customize it:
 
 ```mermaid
   graph TD
@@ -37,11 +42,44 @@ whattodoafter-->newrepo
 whattodoafter-->obsidian
 ```
 
-1. You can customize the template by editing the .md file in the repo and adding relevant data files (if any).
-2. Explore different [visuals and data-rich components](https://datahub.io/@Daniellappv/datahub-cloud-template-2/docs/Add%20visuals%20and%20data-rich%20components) that you can add to your page
-3. Publish an existing repository of your own and see what it looks like when published with Datahub Cloud. For any issues or errors, please open an issue here https://github.com/datopian/datahub/issues
-4. Create a new repository in Github. Create a README.md file, add some information in it and publish it with Datahub Cloud. You can check out this [quick tutorial](https://datahub.io/@olayway/docs/Create%20a%20dataset%20from%20scratch%20and%20publish%20it) if you need guidance.
-5. Publish your Obsidian notes. Here's a [quick tutorial](https://datahub.io/@olayway/docs/Publish%20your%20Obsidian%20vault) on how to do that
+## Taking your template to the next level
+
+It goes without saying that you can directly start by updating the .md file in your repo
+
+<div class="middle-button-container">
+    <h3 class="h3-title-heading">Customize your site with CSS and HTML<br/>🧮📽️</h3>
+    <a href="https://datahub.io/@olayway/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">How do I customize my site with CSS and HTML</a>
+</div>
+
+<div class="middle-button-container">
+    <h3 class="h3-title-heading">Add some visuals<br/>📊</h3>
+    <a href="https://datahub.io/@olayway/docs/Add%20visuals%20and%20data-rich%20components">How do I add visuals</a>
+</div>
+
+<div class="middle-button-container">
+    <h3 class="h3-title-heading">Add sidebar navigation<br/></h3>
+    <a href="https://datahub.io/@olayway/docs/Add%20sidebar%20navigation" class="middle-button">How to add sidebar navigation</a>
+</div>
+
+## Start from the scratch
+
+Or if that's easier, you can start from scratch or from an existing repo in Github.
+
+If you haven't worked with Github or your project does not live there, go ahead and create a new repository in Github. Create a README.md file, add some intro to it and publish it with Datahub Cloud.
+
+<div class="middle-button-container">
+    <a href="https://datahub.io/@olayway/docs/Create%20a%20dataset%20from%20scratch%20and%20publish%20it" class="middle-button">Create a dataset from scratch</a>
+</div>
+
+You can also publish an existing repository of your own and see what it looks like when published with Datahub Cloud. For any issues or errors, please open an issue here https://github.com/datopian/datahub/issues
+
+## Publish your Obsidian vault
+
+You can also publish your Obsidian notes and create your handbook with Datahub Cloud. Eg. see this beautiful example https://datahub.io/@davidgasquez/handbook. 
+
+<div class="middle-button-container">
+    <a href="https://datahub.io/@olayway/docs/Publish%20your%20Obsidian%20vault" class="middle-button">How to publish my Obsidian vault</a>
+</div>
 
 # What syntax is supported
 
