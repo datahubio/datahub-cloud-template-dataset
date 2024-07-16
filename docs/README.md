@@ -1,9 +1,9 @@
 <div class="hero">
-    <h1 class="hero-title">Documentation 📚<br/></h1>
+    <h1 class="hero-title">Documentation<br/></h1>
     <p class="hero-description">Welcome to Datahub Cloud documentation. Datahub Cloud is your stupidly simple and fast tool for turning your data stories or datasets on GitHub into a published, shareable site. It converts raw data and Markdown files into beautifully presented, interactive sites.</p>
 </div>
 
-# Documentation 📚
+# Documentation 
 
 > [!note]
 > The current version of Datahub Cloud runs only off Github.
