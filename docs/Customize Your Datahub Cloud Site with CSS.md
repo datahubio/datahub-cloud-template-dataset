@@ -1,6 +1,5 @@
 <div class="hero">
     <h1 class="hero-title">Customize Your Datahub Cloud Site with CSS<br/></h1>
-    <p class="hero-description">With CSS (Cascading Style Sheets), you can tailor the colors, fonts, layout, and overall design elements to match your branding or aesthetic preferences. This section will guide you through the process of using CSS to customize various aspects of your Datahub Cloud site.</p>
 </div>
 
 # Customize Your DataHub Cloud Site with CSS
