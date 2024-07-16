@@ -1,7 +1,6 @@
 <div class="hero">
     <h1 class="hero-title">Documentation<br/>📚</h1>
-    <p class="hero-description">Welcome to Datahub Cloud documentation. We are constantly trying to improve it so if you notice a gap or want to suggest an improvement please ping us on discord https://discord.gg/URNSkepK7z </p>
-    <a href="https://datahub.io/@Daniellappv/glucose-matters-2#insights" class="hero-button">See insights</a>
+    <p class="hero-description">Welcome to Datahub Cloud documentation. We are constantly trying to improve it so if you notice a gap or want to suggest an improvement please ping us on [discord](https://discord.gg/URNSkepK7z)</p>
 </div>
 
 # Docs 
