@@ -1,3 +1,15 @@
 {
-  "showSidebar": true
+{
+  "showSidebar": true,
+  "sidebarOrder": [
+    "Overview",
+    "Create a dataset from scratch and publish it",
+    "Add visuals and data-rich components",
+    "How to customize your site with CSS",
+    "Add sidebar navigation",
+    "Auto-sync of your site",
+    "How to configure your site",
+    "What syntax is supported",
+    "Publish your Obsidian vault"
+  ]
 }
