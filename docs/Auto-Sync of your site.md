@@ -1,6 +1,6 @@
 <div class="hero">
     <h1 class="hero-title">Auto-Sync of your Site<br/></h1>
-    <p class="hero-description">A well-structured sidebar can significantly enhance the usability and navigability of your documentation or data site. With Datahub Cloud, you can easily implement sidebar navigation to help users quickly find and access the content they need. This section will guide you through the steps to add and customize a sidebar for your site.</p>
+    <p class="hero-description">Keeping your site content up-to-date can be a tedious task, especially when dealing with frequent changes and updates. With Datahub Cloud's auto-sync feature, you can automate this process, ensuring that your site always reflects the latest versions of your datasets and documentation. This section will walk you through enabling and using the auto-sync functionality.</p>
 </div>
 
 # Auto-Sync of your Site
