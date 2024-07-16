@@ -4,7 +4,7 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Lucida Console", monospace !important;
+    font-family: "Helvetica, sans-serif", monospace !important;
     font-weight: bold !important;
 }
 
@@ -23,20 +23,20 @@ h3, h6 {
 ...
 
 .hero {
-  background-color: #f9f6f1;
+  background-color: #fff;
   height: 500px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: #fff;
+  color: #ed9e0c;
   padding: 0 36px;
 }
 
 .hero-title {
   font-size: 4rem;
-    color: #2f7680 !important;
+    color: #ed9e0c !important;
     margin-bottom: 0px;
 }
 
@@ -57,7 +57,7 @@ h3, h6 {
 
 .hero-button:hover {
   background-color: #ed9e0c;
-  color: #fff;
+  color: #d3d3d3;
 }
 
 .middle-button-container {
@@ -77,5 +77,5 @@ h3, h6 {
 
 .middle-button:hover {
   background-color: #ed9e0c;
-  color: #fff;
+  color: #d3d3d3;
         }
