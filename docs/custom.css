@@ -4,7 +4,7 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Helvetica, sans-serif", monospace !important;
+    font-family: "Open Sans", "sans-serif", monospace !important;
     font-weight: bold !important;
 }
 
@@ -41,7 +41,7 @@ h3, h6 {
 }
 
 .hero-description {
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-bottom: 30px;
 }
 
@@ -66,7 +66,7 @@ h3, h6 {
         }
 
 .middle-button {
-  background-color: #d3d3d3;
+  background-color: CBC3E3;
   color: #333;
   padding: 10px 20px;
   border-radius: 5px;
@@ -77,5 +77,5 @@ h3, h6 {
 
 .middle-button:hover {
   background-color: #ed9e0c;
-  color: #d3d3d3;
+  color: #333;
         }
