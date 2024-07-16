@@ -1,3 +1,8 @@
+<div class="hero">
+    <h1 class="hero-title">How to push an Obsidian vault to a Github repository<br/></h1>
+    <p class="hero-description">This guide walks you through the steps to seamlessly synchronize your local Obsidian vault with a GitHub repository allowing you to publish it with Datahub Cloud.</p>
+</div>
+
 # How to push an Obsidian vault to a GitHub repository
 
 This howto walks you through the process of setting up your Obsidian vault as a GitHub repository. Here are some of the benefits of doing so:
