@@ -37,23 +37,21 @@ whattodoafter-->newrepo
 whattodoafter-->obsidian
 ```
 
-### Taking the template to the next level
+### Take the template to the next level
 
-It goes without saying that you can directly start by updating the .md file in your repo
+> [!note]
+> The template works best for datasets. If you don't have any data files, we suggest starting from scratch (go to [Starting from scratch](https://datahub.io/docs#starting-from-the-scratch))
 
 <div class="middle-button-container">
-    <h3 class="h3-title-heading">Customize your site with CSS and HTML 🧮📽️<br/></h3>
-    <a href="https://datahub.io/@olayway/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">How do I customize my site with CSS and HTML</a>
+    <a href="https://datahub.io/@olayway/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">Customize your site with CSS and HTML</a>
 </div>
 
 <div class="middle-button-container">
-    <h3 class="h3-title-heading">Add some visuals📊<br/></h3>
-    <a href="https://datahub.io/@olayway/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">How do I add visuals</a>
+    <a href="https://datahub.io/@olayway/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">Add visuals and data-rich components</a>
 </div>
 
 <div class="middle-button-container">
-    <h3 class="h3-title-heading">Add sidebar navigation✔️<br/></h3>
-    <a href="https://datahub.io/@olayway/docs/Add%20sidebar%20navigation" class="middle-button">How to add sidebar navigation</a>
+    <a href="https://datahub.io/@olayway/docs/Add%20sidebar%20navigation" class="middle-button">Add sidebar navigation</a>
 </div>
 
 ### Starting from the scratch
