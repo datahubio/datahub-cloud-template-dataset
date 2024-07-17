@@ -306,7 +306,7 @@ You can add as many markdown files to your GitHub repository as you like, and yo
 5. Click on "Create Site".
 6. Done! Now visit your site by clicking on the URL at the top of the site settings page.
 
-[[../../story1|👀 See an example data-rich document rendered with DataHub]]
+[[../story1|👀 See an example data-rich document rendered with DataHub]]
 ___
 
 Cool, isn't it? Get in contact with us and let us know what you think! [Join our Discord](https://discord.gg/URNSkepK7z)
