@@ -11,7 +11,7 @@
 ### Templates
 
 - [Data-rich story template](https://github.com/datahubio/datahub-cloud-template-story) that renders like [this](https://datahub.io/@Daniellappv/datahub-cloud-template-story)
-- [Dataset template](https://github.com/datahubio/datahub-cloud-template) that renders like [this](https://datahub.io/@Daniellappv/datahub-cloud-template-dataset)
+- [Dataset template](https://github.com/datahubio/datahub-cloud-template) that renders like [this](https://datahub.io/@Daniellappv/repo-template-based)
 - [PKM template](https://github.com/datahubio/datahub-cloud-template-pkm) that renders like [this](https://datahub.io/@Daniellappv/datahub-cloud-template-pkm)
 
 ### How to deploy your first site within seconds
