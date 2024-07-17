@@ -1,7 +1,3 @@
-<div class="hero">
-    <h1 class="hero-title">Customize Your Datahub Cloud Site with CSS<br/></h1>
-</div>
-
 # Customize Your DataHub Cloud Site with CSS
 
 ## Introduction
