@@ -2,6 +2,93 @@
 
 In this tutorial, we are going to cover the basics of creating and publishing data-rich documents.
 
+### But wait, what is a data-rich story?
+
+A data-rich story is a document in which the writer can easily mix formatted text content with data visualizations. This means that you don't have to code nor embed your charts and tables, those can be added to the document with a very simple syntax, passing inline-data or simply referencing your data files. What you end up with is a plain text, human-readable document which is simple to edit and looks awesome when rendered in DataHub!
+
+### What does this syntax look like?
+
+The structure and text formatting of the documents are created with markdown (take a look at [this guide](https://www.datopian.com/playbook/markdown) to learn more about markdown). But it's not simply markdown, it's markdown on steroids: writers are capable of easily adding tables of content, mathematical formulas, data visualizations and more!
+
+<div class="middle-button-container">
+    <a href="https://datahub.io/@olayway/docs/Markdown%20syntax%20support" class="middle-button">Supported markdown syntax</a>
+</div>
+
+And guess what? What you are reading right now is a data-rich document powered by DataHub, that's why we can do this:
+
+<LineChart
+  data={{
+    values: [
+      {
+        value: -0.41765878,
+        year: '1850'
+      },
+      {
+        value: -0.2333498,
+        year: '1851'
+      },
+      {
+        value: -0.22939907,
+        year: '1852'
+      },
+      {
+        value: -0.27035445,
+        year: '1853'
+      },
+      {
+        value: -0.29163003,
+        year: '1854'
+      }
+    ]
+  }}
+  xAxis="year"
+  yAxis="value"
+/>
+
+Awesome, right? Even more awesome is that this chart is created by simply having the following snippet in this document:
+
+```
+<LineChart
+  data={{
+    values: [
+      {
+        value: -0.41765878,
+        year: '1850'
+      },
+      {
+        value: -0.2333498,
+        year: '1851'
+      },
+      {
+        value: -0.22939907,
+        year: '1852'
+      },
+      {
+        value: -0.27035445,
+        year: '1853'
+      },
+      {
+        value: -0.29163003,
+        year: '1854'
+      }
+    ]
+  }}
+  xAxis="year"
+  yAxis="value"
+/>
+```
+
+You can check out the full source of the data rich document you are reading [here](https://github.com/datahubio/tutorial).
+
+More on how to create charts and tables later, but now, this must be coming from somewhere, right?
+
+### What is a DataHub project?
+
+A DataHub project is simply a GitHub repo with a README and, potentially, data files. That's right: you can take advantage of everything that GitHub offers in terms of revisioning, changes history and so on and transform your repo into a data rich document.
+
+Imagine how cool it would be to store your reports, datasets and analysis in this format. Now, let's learn how to actually do it.
+
+
 ## Steps
 
 ### Create a GitHub repo
