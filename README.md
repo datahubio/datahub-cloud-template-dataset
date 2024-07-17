@@ -143,8 +143,8 @@ You may also want to check out:
     url: 'data.csv'
   }}
   title="C02 PPM per decade"
-  xAxis="CO2"
-  yAxis="Year"
+  xAxis="year"
+  yAxis="co2"
 />
 
 <div class="middle-button-container">
