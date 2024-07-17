@@ -130,6 +130,23 @@ You may also want to check out:
 > [!done]
 > Test passed.
 
+## Testing data-rich components
+
+<FlatUiTable
+  data={{
+    url: 'data.csv'
+  }}
+ />
+
+ <LineChart
+  data={{
+    url: 'data.csv'
+  }}
+  title="C02 PPM per decade"
+  xAxis="CO2"
+  yAxis="Year"
+/>
+
 <div class="middle-button-container">
     <a href="https://datahub.io/@olayway/docs" class="middle-button">Go to the docs</a>
 </div>
