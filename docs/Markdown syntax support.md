@@ -1,7 +1,6 @@
-<div class="hero">
-    <h1 class="hero-title">Markdown syntax support<br/></h1>
-    <p class="hero-description">Understanding the Markdown syntax supported on Datahub Cloud is key to creating and formatting content effectively for your site. This section gives you an overview of the Markdown features available on Datahub Cloud, empowering you to use them to create content that is well-structured and visually appealing.</p>
-</div>
+---
+title: Markdown syntax support
+---
 
 Datahub was designed with Obsidian users in mind, and so, it aims to fully support Obsidian syntax, including **CommonMark**, **GitHub Flavoured Markdown** and **Obsidian extensions**, like Wiki links.
 
