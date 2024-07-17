@@ -18,7 +18,11 @@ datapackage:
     path: data.csv
 ---
 
-Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter. 
+<div class="hero">
+    <h1 class="hero-title">Readme.md content<br/></h1>
+    <p class="hero-description">Welcome to the body of your site. Everything above this section is part of the Data package front matter. I am adding here markdown text and other data-rich elements and they render beautifully. </p>
+</div>
+
 
 # Overview
 
