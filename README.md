@@ -132,11 +132,14 @@ You may also want to check out:
 
 ## Testing data-rich components
 
+I will add a data table from my data.csv file below:
 <FlatUiTable
   data={{
     url: 'data.csv'
   }}
  />
+
+ Looks kinda cool. What about a linechart? Let's see what this would look like:
 
  <LineChart
   data={{
@@ -146,6 +149,8 @@ You may also want to check out:
   xAxis="year"
   yAxis="co2"
 />
+
+If you want to explore more of what's possible:
 
 <div class="middle-button-container">
     <a href="https://datahub.io/@olayway/docs" class="middle-button">Go to the docs</a>
