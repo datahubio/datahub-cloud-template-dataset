@@ -1,6 +1,6 @@
 /* Change heading fonts and colors */
 .bg-background {
-    background: #fff !important;
+    background: #faf0e6 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -23,7 +23,7 @@ h3, h6 {
 ...
 
 .hero {
-  background-color: #fff;
+  background-color: #faf0e6;
   height: 500px;
   display: flex;
   flex-direction: column;
