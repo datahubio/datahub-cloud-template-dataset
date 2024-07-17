@@ -78,7 +78,9 @@ You can also publish your Obsidian notes and create your handbook with Datahub C
 
 Datahub Cloud supports CommonMark and GitHub Flavored Markdown, but also many Obsidian-specific syntax elements, like Wiki links or footnotes[^1].
 
-For more syntax elements supported by Datahub Cloud, see [Markdown syntax support](https://datahub.io/@olayway/docs/Markdown%20syntax%20support)
+<div class="middle-button-container">
+    <a href="https://datahub.io/@olayway/docs/Markdown%20syntax%20support" class="middle-button">See supported markdown syntax</a>
+</div>
 
 ### Need help?
 
