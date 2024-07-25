@@ -94,8 +94,7 @@ const ExampleCode = () => {
 
 ### How to take this template to the next level
 
-> [!note]
-> The template works best for datasets. If you don't have any data files, we suggest deleting the frontmatter and following this [quick tutorial on publishing data-rich stories](https://datahub.io/@olayway/docs/Publish%20data-rich%20stories)
+This template works best for datasets. If you don't have any data files, we suggest checking out the other templates here https://datahub.io/docs#templates
 
 You may also want to check out: 
 
