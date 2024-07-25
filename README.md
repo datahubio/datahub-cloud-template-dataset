@@ -24,12 +24,6 @@ datapackage:
 </div>
 
 
-# Hello
-
-![[Hello.png]]
-
-*(Photo by Kassandra O'Shea on [flicker](http://www.flickr.com/photos/kyabean/8194627569/))*
- ·
 ## Overview
 
 Here is a quick overview of the template you're looking at:
