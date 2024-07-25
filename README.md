@@ -96,7 +96,7 @@ const ExampleCode = () => {
 
 This template works best for datasets. If you don't have any data files, we suggest checking out the other templates here https://datahub.io/docs#templates
 
-You may also want to check out: 
+You can add some visuals (graphs, charts) to make your dataset more impactful or add sidebar navigation in case you have a collection of datasets. Or you could customize your site with CSS and HTML or configure SEO fields, etc. See below:
 
 <div class="middle-button-container">
     <a href="https://datahub.io/@olayway/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">Customize your site with CSS and HTML</a>
@@ -113,6 +113,8 @@ You may also want to check out:
 <div class="middle-button-container">
     <a href="https://datahub.io/@olayway/docs/Configuring%20Nav%20bar%20and%20SEO%20fields" class="middle-button">How to Configure Basic SEO Fields and Nav Bar</a>
 </div>
+
+---
 
 > [!important]
 > For any questions, refer to the [Docs](https://datahub.io/@olayway/docs)
