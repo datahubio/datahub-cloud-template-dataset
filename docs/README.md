@@ -1,5 +1,5 @@
 ---
-title: 👉 Documentation
+title: ➡ Documentation
 ---
 
 <div class="hero">
