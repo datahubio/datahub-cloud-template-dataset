@@ -76,7 +76,7 @@ You can either update it if you have some data files / datasets that you would w
 
 You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with other data visualisation components and markdown features.
 
-> Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/@olayway/docs/Markdown%20syntax%20support)
+> Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/docs/Markdown%20syntax%20support)
 
 Here are some quick examples:
 
@@ -99,25 +99,25 @@ This template works best for datasets. If you don't have any data files, we sugg
 You can add some visuals (graphs, charts) to make your dataset more impactful or add sidebar navigation in case you have a collection of datasets. Or you could customize your site with CSS and HTML or configure SEO fields, etc. See below:
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">Customize your site with CSS and HTML</a>
+    <a href="https://datahub.io/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">Customize your site with CSS and HTML</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">Add visuals and data-rich components</a>
+    <a href="https://datahub.io/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">Add visuals and data-rich components</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Add%20sidebar%20navigation" class="middle-button">Add sidebar navigation</a>
+    <a href="https://datahub.io/docs/Add%20sidebar%20navigation" class="middle-button">Add sidebar navigation</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Configuring%20Nav%20bar%20and%20SEO%20fields" class="middle-button">How to Configure Basic SEO Fields and Nav Bar</a>
+    <a href="https://datahub.io/docs/Configuring%20Nav%20bar%20and%20SEO%20fields" class="middle-button">How to Configure Basic SEO Fields and Nav Bar</a>
 </div>
 
 ---
 
 > [!important]
-> For any questions, refer to the [Docs](https://datahub.io/@olayway/docs)
+> For any questions, refer to the [Docs](https://datahub.io/docs)
 
 > [!warning]
 > Just testing some callout blocks here.
@@ -148,6 +148,6 @@ I will add a data table from my data.csv file below:
 If you want to explore more of what's possible:
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs" class="middle-button">Go to the docs</a>
+    <a href="https://datahub.io/docs" class="middle-button">Go to the docs</a>
 </div>
 
