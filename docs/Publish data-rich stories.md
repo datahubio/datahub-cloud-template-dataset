@@ -11,7 +11,7 @@ A data-rich story is a document in which the writer can easily mix formatted tex
 The structure and text formatting of the documents are created with markdown (take a look at [this guide](https://www.datopian.com/playbook/markdown) to learn more about markdown). But it's not simply markdown, it's markdown on steroids: writers are capable of easily adding tables of content, mathematical formulas, data visualizations and more!
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Markdown%20syntax%20support" class="middle-button">Supported markdown syntax</a>
+    <a href="https://datahub.io/docs/Markdown%20syntax%20support" class="middle-button">Supported markdown syntax</a>
 </div>
 
 And guess what? What you are reading right now is a data-rich document powered by DataHub, that's why we can do this:
@@ -376,11 +376,11 @@ We now have a README file ready to be published with DataHub Cloud!
 You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with other data visualisation components and markdown features.
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">Add visuals and data-rich components</a>
+    <a href="https://datahub.io/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">Add visuals and data-rich components</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Markdown%20syntax%20support" class="middle-button">See the full list of supported markdown features</a>
+    <a href="https://datahub.io/docs/Markdown%20syntax%20support" class="middle-button">See the full list of supported markdown features</a>
 </div>
 
 
