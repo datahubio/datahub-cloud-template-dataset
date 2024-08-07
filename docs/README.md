@@ -49,15 +49,15 @@ whattodoafter-->obsidian
 > The template works best for datasets. If you don't have any data files, we suggest starting from scratch (go to [Start from scratch](https://datahub.io/docs#start-from-the-scratch))
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">Customize your site with CSS and HTML</a>
+    <a href="https://datahub.io/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">Customize your site with CSS and HTML</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">Add visuals and data-rich components</a>
+    <a href="https://datahub.io/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">Add visuals and data-rich components</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Add%20sidebar%20navigation" class="middle-button">Add sidebar navigation</a>
+    <a href="https://datahub.io/docs/Add%20sidebar%20navigation" class="middle-button">Add sidebar navigation</a>
 </div>
 
 ### Start from the scratch
@@ -67,7 +67,7 @@ Or if that's easier, you can start from scratch or from an existing repo in Gith
 If you haven't worked with Github or your project does not live there, go ahead and create a new repository in Github. Create a README.md file, add some intro to it and publish it with Datahub Cloud.
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Create%20a%20dataset%20from%20scratch%20and%20publish%20it%20with%20Datahub%20Cloud" class="middle-button">Create a dataset from scratch</a>
+    <a href="https://datahub.io/docs/Create%20a%20dataset%20from%20scratch%20and%20publish%20it%20with%20Datahub%20Cloud" class="middle-button">Create a dataset from scratch</a>
 </div>
 
 You can also publish an existing repository of your own and see what it looks like when published with Datahub Cloud. For any issues or errors, please open an issue here https://github.com/datopian/datahub/issues
@@ -77,7 +77,7 @@ You can also publish an existing repository of your own and see what it looks li
 You can also publish your Obsidian notes and create your handbook with Datahub Cloud. Eg. see this beautiful example https://datahub.io/@davidgasquez/handbook. 
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/How%20to%20push%20an%20Obsidian%20vault%20to%20a%20Github%20repository" class="middle-button">How to publish my Obsidian vault</a>
+    <a href="https://datahub.io/docs/How%20to%20push%20an%20Obsidian%20vault%20to%20a%20Github%20repository" class="middle-button">How to publish my Obsidian vault</a>
 </div>
 
 ### What syntax is supported
@@ -85,7 +85,7 @@ You can also publish your Obsidian notes and create your handbook with Datahub C
 Datahub Cloud supports CommonMark and GitHub Flavored Markdown, but also many Obsidian-specific syntax elements, like Wiki links or footnotes[^1].
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Markdown%20syntax%20support" class="middle-button">See supported markdown syntax</a>
+    <a href="https://datahub.io/docs/Markdown%20syntax%20support" class="middle-button">See supported markdown syntax</a>
 </div>
 
 ### Need help?
