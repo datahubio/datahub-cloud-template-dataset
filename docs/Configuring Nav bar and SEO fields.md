@@ -48,10 +48,6 @@ As you just saw, setting the `title` field in `config.json` already changes/sets
 }
 ```
 
-![[./assets/Pasted image 20240520154656.png]]
-
-## Changing Links in the Navbar
-
 Now we have the navbar title and logo changed, but there are still default DataHub links in there. To change those to your custom links you can include `navLinks` field in your `config.json` file, with each link having the following fields:
 - `name`: label of the link
 - `href`: the actual link
