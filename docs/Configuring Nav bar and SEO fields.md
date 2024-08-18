@@ -1,6 +1,6 @@
-<div class="hero">
-    <h1 class="hero-title">Configuring Nav bar and SEO fields<br/></h1>
-</div>
+---
+title: Configuring Nav bar and SEO fields
+---
 
 # How to Configure Basic SEO Fields and Nav Bar in Your DataHub Cloud Sites
 
