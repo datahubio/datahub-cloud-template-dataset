@@ -1,6 +1,6 @@
-<div class="hero">
-    <h1 class="hero-title">Auto-Sync of your Site<br/></h1>
-</div>
+---
+title: "Auto-Sync of your Site"
+--
 
 # Auto-Sync of your Site
 
