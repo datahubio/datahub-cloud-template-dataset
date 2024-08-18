@@ -1,9 +1,10 @@
 ---
 title: "Add visuals and data-rich components"
-description: "With Datahub Cloud, you can easily add various visual and data-rich components to your datasets or data stories, making them more engaging and insightful. This section will guide you through the process of incorporating charts, graphs, and other visual elements to bring your data to life."
 ---
 
-# Add visuals and data-rich components
+<div className="hero">
+    <p className="hero-description">With Datahub Cloud, you can easily add various visual and data-rich components to your datasets or data stories, making them more engaging and insightful. This section will guide you through the process of incorporating charts, graphs, and other visual elements to bring your data to life.</p>
+</div>
 
 > [!info] Github is playing the role of your Editor.
 > Any changes you want to make to your published site, you need to make in your GitHub repository first.
