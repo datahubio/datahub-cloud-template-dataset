@@ -1,7 +1,7 @@
-<div class="hero">
-    <h1 class="hero-title">Add sidebar navigation <br/></h1>
-    <p class="hero-description">A well-structured sidebar can significantly enhance the usability and navigability of your documentation or data site. With Datahub Cloud, you can easily implement sidebar navigation to help users quickly find and access the content they need. This section will guide you through the steps to add and customize a sidebar for your site.</p>
-</div>
+---
+title: "Add sidebar navigation"
+description: "A well-structured sidebar can significantly enhance the usability and navigability of your documentation or data site. With Datahub Cloud, you can easily implement sidebar navigation to help users quickly find and access the content they need. This section will guide you through the steps to add and customize a sidebar for your site."
+---
 
 ## Add sidebar navigation
 
