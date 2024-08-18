@@ -1,8 +1,6 @@
-<div class="hero">
-    <h1 class="hero-title">Create a dataset from scratch and publish it with Datahub Cloud<br/></h1>
-</div>
-
-# Create a dataset from scratch and publish it with Datahub Cloud
+---
+title: Create a dataset from scratch and publish it with Datahub Cloud
+---
 
 In this tutorial, we're going to learn how to publish a dataset (multiple data files or a single data file) with DataHub Cloud.
 
