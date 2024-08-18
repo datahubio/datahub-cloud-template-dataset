@@ -1,5 +1,5 @@
-<div class="hero">
-    <h1 class="hero-title">How to push an Obsidian vault to a Github repository<br/></h1>
+<div className="hero">
+    <h1 className="hero-title">How to push an Obsidian vault to a Github repository<br/></h1>
 </div>
 
 # How to push an Obsidian vault to a GitHub repository
