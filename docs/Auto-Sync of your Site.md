@@ -1,6 +1,6 @@
 ---
 title: "Auto-Sync of your Site"
---
+---
 
 # Auto-Sync of your Site
 
