@@ -1,8 +1,6 @@
 ---
-title: Configuring Nav bar and SEO fields
+title: How to Configure Basic SEO Fields and Nav Bar in Your DataHub Cloud Sites
 ---
-
-# How to Configure Basic SEO Fields and Nav Bar in Your DataHub Cloud Sites
 
 You can now personalize your DataHub Cloud site by:
 - setting your own site-wide SEO title and description
