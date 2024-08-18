@@ -1,7 +1,7 @@
-<div class="hero">
-    <h1 class="hero-title">Add visuals and data-rich components <br/></h1>
-    <p class="hero-description">With Datahub Cloud, you can easily add various visual and data-rich components to your datasets or data stories, making them more engaging and insightful. This section will guide you through the process of incorporating charts, graphs, and other visual elements to bring your data to life.</p>
-</div>
+---
+title: "Add visuals and data-rich components"
+description: "With Datahub Cloud, you can easily add various visual and data-rich components to your datasets or data stories, making them more engaging and insightful. This section will guide you through the process of incorporating charts, graphs, and other visual elements to bring your data to life."
+---
 
 # Add visuals and data-rich components
 
