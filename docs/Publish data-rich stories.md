@@ -1,4 +1,6 @@
-# Publish data-rich stories with DataHub Cloud
+---
+title: Publish data-rich stories with DataHub Cloud
+---
 
 In this tutorial, we are going to cover the basics of creating and publishing data-rich documents.
 
