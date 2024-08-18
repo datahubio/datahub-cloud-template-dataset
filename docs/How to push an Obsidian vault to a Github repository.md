@@ -1,8 +1,6 @@
-<div className="hero">
-    <h1 className="hero-title">How to push an Obsidian vault to a Github repository<br/></h1>
-</div>
-
-# How to push an Obsidian vault to a GitHub repository
+---
+title: How to push an Obsidian vault to a GitHub repository
+---
 
 This howto walks you through the process of setting up your Obsidian vault as a GitHub repository. Here are some of the benefits of doing so:
 
