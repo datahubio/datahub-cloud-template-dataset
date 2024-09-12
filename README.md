@@ -149,9 +149,9 @@ I will add a data table from my data.csv file below:
   data={{
     values: [
       { date: '2019-01-01', foo: 10, bar: 10, goo: 30 },
-      { date: '2019-01-02', foo: 30, bar: 20, goo: 20 },
-      { date: '2019-01-03', foo: 40, bar: 20, goo: 10 },
-      { date: '2019-01-04', foo: 1, bar: 60, goo: 20 }
+      { date: '2020-01-02', foo: 30, bar: 20, goo: 20 },
+      { date: '2021-01-03', foo: 40, bar: 20, goo: 10 },
+      { date: '2022-01-04', foo: 1, bar: 60, goo: 20 }
     ]
   }}
   title="CO2 PPM per Decade"
