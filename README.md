@@ -141,7 +141,6 @@ I will add a data table from my data.csv file below:
   data={{ url: 'data.csv' }} 
   title="C02 PPM per decade" 
   xAxis="year" 
-  yAxis="co2" 
   color="key"
 />
 
