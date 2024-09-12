@@ -157,7 +157,7 @@ I will add a data table from my data.csv file below:
   title="CO2 PPM per Decade"
   xAxis="date"
   yAxis="value"
-  color="key" // This specifies that the 'key' field should be used for color encoding
+  color="key"
 />
 
 
