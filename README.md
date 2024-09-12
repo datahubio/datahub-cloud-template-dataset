@@ -156,7 +156,6 @@ I will add a data table from my data.csv file below:
   }}
   title="CO2 PPM per Decade"
   xAxis="date"
-  yAxis="foo"
   color="key"
 />
 
