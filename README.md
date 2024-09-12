@@ -142,7 +142,7 @@ I will add a data table from my data.csv file below:
   title="C02 PPM per decade" 
   xAxis="year" 
   yAxis="co2" 
-  color="blue"
+  color="key"
 />
 
 If you want to explore more of what's possible:
