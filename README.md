@@ -174,6 +174,22 @@ I will add a data table from my data.csv file below:
 />
 
 
+<LineChart 
+  data={{ 
+    values: [
+      { date: '2020-01-01', value: 10, category: 'A' },
+      { date: '2020-01-02', value: 20, category: 'B' },
+      { date: '2020-01-03', value: 15, category: 'A' },
+      { date: '2020-01-04', value: 25, category: 'B' }
+    ] 
+  }} 
+  title="CO2 PPM per Decade" 
+  xAxis="date" 
+  yAxis="value" 
+  color="category"
+/>
+
+
 If you want to explore more of what's possible:
 
 <div class="middle-button-container">
