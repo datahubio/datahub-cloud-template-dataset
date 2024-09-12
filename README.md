@@ -162,33 +162,24 @@ I will add a data table from my data.csv file below:
 
 <LineChart
   data={{ values: [
-    { date: '2020-01-01', value: 10, key: 'A' },
-    { date: '2020-01-02', value: 20, key: 'B' },
-    { date: '2020-01-03', value: 15, key: 'A' },
-    { date: '2020-01-04', value: 25, key: 'B' }
+    { "date": "2019-01-01", "value": 10, "key": "foo" },
+    { "date": "2019-01-01", "value": 10, "key": "bar" },
+    { "date": "2019-01-01", "value": 30, "key": "goo" },
+    { "date": "2019-01-02", "value": 30, "key": "foo" },
+    { "date": "2019-01-02", "value": 20, "key": "bar" },
+    { "date": "2019-01-02", "value": 20, "key": "goo" },
+    { "date": "2019-01-03", "value": 40, "key": "foo" },
+    { "date": "2019-01-03", "value": 20, "key": "bar" },
+    { "date": "2019-01-03", "value": 10, "key": "goo" },
+    { "date": "2019-01-04", "value": 1, "key": "foo" },
+    { "date": "2019-01-04", "value": 60, "key": "bar" },
+    { "date": "2019-01-04", "value": 20, "key": "goo" }
   ] }}
-  title="C02 PPM per decade"
+  title="CO2 PPM per Decade"
   xAxis="date"
   yAxis="value"
   color="key"
 />
-
-
-<LineChart 
-  data={{ 
-    values: [
-      { date: '2020-01-01', value: 10, category: 'A' },
-      { date: '2020-01-02', value: 20, category: 'B' },
-      { date: '2020-01-03', value: 15, category: 'A' },
-      { date: '2020-01-04', value: 25, category: 'B' }
-    ] 
-  }} 
-  title="CO2 PPM per Decade" 
-  xAxis="date" 
-  yAxis="value" 
-  color="category"
-/>
-
 
 If you want to explore more of what's possible:
 
