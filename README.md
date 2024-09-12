@@ -162,24 +162,17 @@ I will add a data table from my data.csv file below:
 
 <LineChart
   data={{ values: [
-    { "date": "2019-01-01", "value": 10, "key": "foo" },
-    { "date": "2019-01-01", "value": 10, "key": "bar" },
-    { "date": "2019-01-01", "value": 30, "key": "goo" },
-    { "date": "2019-01-02", "value": 30, "key": "foo" },
-    { "date": "2019-01-02", "value": 20, "key": "bar" },
-    { "date": "2019-01-02", "value": 20, "key": "goo" },
-    { "date": "2019-01-03", "value": 40, "key": "foo" },
-    { "date": "2019-01-03", "value": 20, "key": "bar" },
-    { "date": "2019-01-03", "value": 10, "key": "goo" },
-    { "date": "2019-01-04", "value": 1, "key": "foo" },
-    { "date": "2019-01-04", "value": 60, "key": "bar" },
-    { "date": "2019-01-04", "value": 20, "key": "goo" }
+    { "date": "2019-01-01", "foo": 10, "bar": 10, "goo": 30 },
+    { "date": "2019-01-02", "foo": 30, "bar": 20, "goo": 20 },
+    { "date": "2019-01-03", "foo": 40, "bar": 20, "goo": 10 },
+    { "date": "2019-01-04", "foo": 1, "bar": 60, "goo": 20 }
   ] }}
   title="CO2 PPM per Decade"
   xAxis="date"
   yAxis="value"
   color="key"
 />
+
 
 If you want to explore more of what's possible:
 
