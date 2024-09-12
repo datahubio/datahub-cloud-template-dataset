@@ -137,13 +137,12 @@ I will add a data table from my data.csv file below:
 
  Looks kinda cool. What about a linechart? Let's see what this would look like:
 
- <LineChart
-  data={{
-    url: 'data.csv'
-  }}
-  title="C02 PPM per decade"
-  xAxis="year"
-  yAxis="co2"
+ <LineChart 
+  data={{ url: 'data.csv' }} 
+  title="C02 PPM per decade" 
+  xAxis="year" 
+  yAxis="co2" 
+  color="blue"
 />
 
 If you want to explore more of what's possible:
