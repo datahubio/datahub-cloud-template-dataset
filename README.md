@@ -140,7 +140,8 @@ I will add a data table from my data.csv file below:
  <LineChart 
   data={{ url: 'data.csv' }} 
   title="C02 PPM per decade" 
-  xAxis="year" 
+  xAxis="year"
+  yAxis="co2"
   color="key"
 />
 
@@ -155,6 +156,20 @@ I will add a data table from my data.csv file below:
   }}
   title="CO2 PPM per Decade"
   xAxis="date"
+  color="key"
+/>
+
+<LineChart
+  data={{
+    values: [
+      { date: '2019-01-01', foo: 10, bar: 10, key: 30 },
+      { date: '2020-01-02', foo: 30, bar: 20, key: 20 },
+      { date: '2021-01-03', foo: 40, bar: 20, key: 10 },
+      { date: '2022-01-04', foo: 1, bar: 60, key: 20 }
+    ]
+  }}
+  title="CO2 PPM per Decade"
+  xAxis="foo"
   color="key"
 />
 
