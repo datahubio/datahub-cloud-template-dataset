@@ -76,7 +76,7 @@ You can either update it if you have some data files / datasets that you would w
 
 You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with other data visualisation components and markdown features.
 
-> Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/docs/Markdown%20syntax%20support)
+> Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/docs/DataHub+Cloud/Markdown+syntax+support)
 
 Here are some quick examples:
 
@@ -99,19 +99,20 @@ This template works best for datasets. If you don't have any data files, we sugg
 You can add some visuals (graphs, charts) to make your dataset more impactful or add sidebar navigation in case you have a collection of datasets. Or you could customize your site with CSS and HTML or configure SEO fields, etc. See below:
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">Customize your site with CSS and HTML</a>
+    <a href="https://datahub.io/docs/DataHub+Cloud/Add+sidebar+navigation" class="middle-button">Add sidebar navigation</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/docs/Add%20visuals%20and%20data-rich%20components" class="middle-button">Add visuals and data-rich components</a>
+    <a href="https://datahub.io/docs/DataHub+Cloud/Add+visuals+and+data-rich+components" class="middle-button">Add visuals and data-rich components</a>
+</div>
+
+
+<div class="middle-button-container">
+    <a href="https://datahub.io/docs/DataHub+Cloud/Customize+Your+DataHub+Cloud+Site+with+CSS" class="middle-button">Customize your site with CSS and HTML</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/docs/Add%20sidebar%20navigation" class="middle-button">Add sidebar navigation</a>
-</div>
-
-<div class="middle-button-container">
-    <a href="https://datahub.io/docs/Configuring%20Nav%20bar%20and%20SEO%20fields" class="middle-button">How to Configure Basic SEO Fields and Nav Bar</a>
+    <a href="https://datahub.io/docs/DataHub+Cloud/Configuring+Nav+bar+and+SEO+fields" class="middle-button">How to Configure Basic SEO Fields and Nav Bar</a>
 </div>
 
 ---
@@ -135,14 +136,63 @@ I will add a data table from my data.csv file below:
  />
 
  Looks kinda cool. What about a linechart? Let's see what this would look like:
+ <LineChart 
+  data={{ url: 'data.csv' }} 
+  title="C02 PPM per decade" 
+  xAxis="year"
+  yAxis="value"
+  color="key"
+/>
 
- <LineChart
-  data={{
-    url: 'data.csv'
-  }}
-  title="C02 PPM per decade"
+ <LineChart 
+  data={{ url: 'data.csv' }} 
+  title="C02 PPM per decade" 
   xAxis="year"
   yAxis="co2"
+  color="key"
+/>
+
+<LineChart
+  data={{
+    values: [
+      { date: '2019-01-01', foo: 10, bar: 10, key: 30 },
+      { date: '2020-01-02', foo: 30, bar: 20, key: 20 },
+      { date: '2021-01-03', foo: 40, bar: 20, key: 10 },
+      { date: '2022-01-04', foo: 1, bar: 60, key: 20 }
+    ]
+  }}
+  title="CO2 PPM per Decade"
+  xAxis="date"
+  color="key"
+/>
+
+<LineChart
+  data={{
+    values: [
+      { date: '2019-01-01', foo: 10, bar: 10, key: 30 },
+      { date: '2020-01-02', foo: 30, bar: 20, key: 20 },
+      { date: '2021-01-03', foo: 40, bar: 20, key: 10 },
+      { date: '2022-01-04', foo: 1, bar: 60, key: 20 }
+    ]
+  }}
+  title="CO2 PPM per Decade"
+  xAxis="foo"
+  color="key"
+/>
+
+<LineChart
+  data={{
+    values: [
+      { date: '2019-01-01', foo: 10, bar: 10, key: 30 },
+      { date: '2020-01-02', foo: 30, bar: 20, key: 20 },
+      { date: '2021-01-03', foo: 40, bar: 20, key: 10 },
+      { date: '2022-01-04', foo: 1, bar: 60, key: 20 }
+    ]
+  }}
+  title="CO2 PPM per Decade"
+  xAxis="foo"
+  yAxis="value"
+  color="Values"
 />
 
 If you want to explore more of what's possible:
@@ -150,4 +200,3 @@ If you want to explore more of what's possible:
 <div class="middle-button-container">
     <a href="https://datahub.io/docs" class="middle-button">Go to the docs</a>
 </div>
-
