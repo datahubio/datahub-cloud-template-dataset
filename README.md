@@ -19,23 +19,20 @@ datapackage:
 ---
 
 <div class="hero">
-    <h1 class="hero-title">Readme.md content<br/></h1>
-    <p class="hero-description">Welcome to the body of your site. Everything above this section is part of the Data package front matter. I am adding here markdown text and other data-rich elements and they render beautifully.</p>
+    <h1 class="hero-title">Dataset Template<br/></h1>
+    <p class="hero-description">This section displays the main content of your site. The content above is the metadata section, known as the Data Package frontmatter.</p>
 </div>
-
 
 ## Overview
 
-Here is a quick overview of the template you're looking at:
+This repository contains a template for publishing datasets using Datahub Cloud. The structure consists of frontmatter (metadata), followed by content-rich elements and markdown text.
 
-![[Overview.png]]
+![Overview](Overview.png)
 
-We have a frontmatter at the top, followed by the "body" of your site, which consists of unstructured data and/or data-rich components.
-
-Feel free to customize the data package frontmatter accordingly when publishing your own data. 
+The frontmatter includes metadata like dataset title, description, and sources. This data is processed and displayed along with unstructured content such as charts, tables, or text.
 
 > [!info]
-> Frontmatter refers to the metadata placed at the beginning of the markdown file enclosed within triple dashes (---). This metadata provides essential information about the file and its content, enabling better organization, configuration, and processing by tools and platforms.
+> **Frontmatter**: The metadata at the top of the markdown file, enclosed in triple dashes (`---`). This metadata is used for organizing and processing the content.
 
 ```mermaid
   graph TD;
@@ -70,21 +67,20 @@ datapackage:
 ---
 ```
 
-You can either update it if you have some data files / datasets that you would want to publish or delete it completely if you have markdown content only (suitable for blogs, data stories, articles, etc.)
+This can be updated if publishing datasets with additional files or removed entirely if the content is only markdown (e.g., blogs, articles, etc.).
 
-## Okay, I published the template. Now what?
+## Next Steps After Publishing
 
-You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with other data visualisation components and markdown features.
+Once the template is published, markdown files can be added to the repository, organized into subdirectories as needed. It is possible to enhance the content with additional data visualizations and supported markdown features.
 
-> Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/docs/DataHub+Cloud/Markdown+syntax+support)
+For a complete list of markdown features, refer to the [Markdown syntax support](https://datahub.io/docs/DataHub+Cloud/Markdown+syntax+support)
 
-Here are some quick examples:
+Markdown Examples:
 
-> [!info] This is cool!
-> Here's a callout block.
-> It supports **markdown** and ```[[Internal link|wikilinks]]```.
+> Here are a few examples:
+> Example Callout This is an info block supporting markdown and ```[[Internal link|wikilinks]]```.
 
-Or you can quickly embed a piece of code as follows:
+Code blocks can also be embedded easily:
 
 ```
 const ExampleCode = () => {
@@ -92,11 +88,11 @@ const ExampleCode = () => {
 };
 ```
 
-### How to take this template to the next level
+### Enhancing the Template
 
-This template works best for datasets. If you don't have any data files, we suggest checking out the other templates here https://datahub.io/docs#templates
+This template is designed primarily for datasets. If no dataset is available, consider exploring alternative templates here. https://datahub.io/docs#templates
 
-You can add some visuals (graphs, charts) to make your dataset more impactful or add sidebar navigation in case you have a collection of datasets. Or you could customize your site with CSS and HTML or configure SEO fields, etc. See below:
+To maximize the impact of datasets, consider adding visuals (e.g., graphs, charts), sidebar navigation, or custom styles (CSS and HTML). See the following links for more information:
 
 <div class="middle-button-container">
     <a href="https://datahub.io/docs/DataHub+Cloud/Add+sidebar+navigation" class="middle-button">Add sidebar navigation</a>
@@ -120,22 +116,16 @@ You can add some visuals (graphs, charts) to make your dataset more impactful or
 > [!important]
 > For any questions, refer to the [Docs](https://datahub.io/docs)
 
-> [!warning]
-> Just testing some callout blocks here.
-
-> [!done]
-> Test passed.
-
 ## Testing data-rich components
 
-I will add a data table from my data.csv file below:
+Below is a data table rendered from the data.csv file:
 <FlatUiTable
   data={{
     url: 'data.csv'
   }}
  />
 
- Looks kinda cool. What about a linechart? Let's see what this would look like:
+Customized LineChart based on predefined data:
  <LineChart 
   data={{ url: 'data.csv' }} 
   title="C02 PPM per decade" 
@@ -195,7 +185,7 @@ I will add a data table from my data.csv file below:
   color="Values"
 />
 
-If you want to explore more of what's possible:
+For more possibilities, explore the Datahub docs:
 
 <div class="middle-button-container">
     <a href="https://datahub.io/docs" class="middle-button">Go to the docs</a>
