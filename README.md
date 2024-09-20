@@ -76,7 +76,7 @@ You can either update it if you have some data files / datasets that you would w
 
 You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with other data visualisation components and markdown features.
 
-> Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/docs/DataHub+Cloud/Markdown+syntax+support)
+> Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/docs/datahub-cloud/Markdown+syntax+support)
 
 Here are some quick examples:
 
@@ -99,20 +99,20 @@ This template works best for datasets. If you don't have any data files, we sugg
 You can add some visuals (graphs, charts) to make your dataset more impactful or add sidebar navigation in case you have a collection of datasets. Or you could customize your site with CSS and HTML or configure SEO fields, etc. See below:
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/docs/DataHub+Cloud/Add+sidebar+navigation" class="middle-button">Add sidebar navigation</a>
+    <a href="https://datahub.io/docs/datahub-cloud/Add+sidebar+navigation" class="middle-button">Add sidebar navigation</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/docs/DataHub+Cloud/Add+visuals+and+data-rich+components" class="middle-button">Add visuals and data-rich components</a>
+    <a href="https://datahub.io/docs/datahub-cloud/Add+visuals+and+data-rich+components" class="middle-button">Add visuals and data-rich components</a>
 </div>
 
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/docs/DataHub+Cloud/Customize+Your+DataHub+Cloud+Site+with+CSS" class="middle-button">Customize your site with CSS and HTML</a>
+    <a href="https://datahub.io/docs/datahub-cloud/Customize+Your+DataHub+Cloud+Site+with+CSS" class="middle-button">Customize your site with CSS and HTML</a>
 </div>
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/docs/DataHub+Cloud/Configuring+Nav+bar+and+SEO+fields" class="middle-button">How to Configure Basic SEO Fields and Nav Bar</a>
+    <a href="https://datahub.io/docs/datahub-cloud/Configuring+Nav+bar+and+SEO+fields" class="middle-button">How to Configure Basic SEO Fields and Nav Bar</a>
 </div>
 
 ---
