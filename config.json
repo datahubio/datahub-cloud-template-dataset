@@ -8,6 +8,9 @@
         "links": [
             { "href": "https://datahub.io/docs", "name": "Docs" }
         ],
+        "social": [
+            { "href": "https://discord.com/abc", "name": "Discord", "label": "discord" }
+        ]
     },
     "showSidebar": false
 }
