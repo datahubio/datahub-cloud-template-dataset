@@ -1,18 +1,13 @@
 {
     "title": "DataHub Cloud Template",
-  "description": "You can use this template repository to bootstrap your own DataHub Cloud site.",
-  "logo": "https://datahub.io/datahub-cube.svg",
-  "navbarTitle": {
+    "description": "You can use this template repository to bootstrap your own DataHub Cloud site.",
     "logo": "https://datahub.io/datahub-cube.svg",
-    "text": "DataHub Cloud Site Template"
-  },
-  "author": {
-    "name": "DataHub",
-    "url": "https://datahub.io/",
-    "logo": "https://datahub.io/datahub-cube.svg"
-  },
-  "navLinks": [
-    { "href": "https://datahub.io/docs", "name": "Docs" }
-  ],
-  "showSidebar": false
+    "nav": {
+        "logo": "https://datahub.io/datahub-cube.svg",
+        "title": "DataHub Cloud Site Template",
+        "links": [
+            { "href": "https://datahub.io/docs", "name": "Docs" }
+        ],
+    },
+    "showSidebar": false
 }
